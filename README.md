@@ -64,7 +64,7 @@ git clone https://github.com/qibebt-bioinfo/RamEx.git
 
 **b. Configure the environment variables (the default environment variable configuration file is “~/.bashrc”)**
 ```
-export RamEX=Path to MetaApo
+export RamEX=Path to RamEx
 export PATH="$PATH:$RamEX/bin/"
 source ~/.bashrc
 ```
