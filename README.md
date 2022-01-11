@@ -17,8 +17,8 @@
 # Introduction
 
 A ramanome represents a single-cell-resolution metabolic phenome that is information-rich, revealing functional heterogeneity among cells, and universally applicable to all cell types.Ramanome Explorer (RamEx) is a toolkit for comprehensive and efficient analysis and comparison of ramanomes. Results from the multidimensional analysis are visualized via intuitive graphics. Implemented via R and C++, RamEx is fully extendable and supports cross-platform use.By providing simple-to-use modules for computational tasks that otherwise would require substantial programming experience and algorithmic skills, RamEx should greatly facilitate the computational mining of ramanomes.
-![Fig. 1. The software architecture of RamEx. RamEx integrates five core modules (data governance and preprocessing, real-time ramanome depth analysis, microbiome heterogeneity index analysis, IRCA, and RBCS) to support a complete ramanome-analysis pipeline.](http://bioinfo.single-cell.cn/images/RamEx.png)  
-<div align=center>Fig.1. Calibration of predicted functional profiles of microbiome amplicon samples by a small number of amplicon-WGS sample pairs for training.</div>
+![Fig. 1. The software architecture of RamEx.](http://bioinfo.single-cell.cn/images/RamEx.png)  
+<div align=center>Fig.1. The software architecture of RamEx. RamEx integrates five core modules (data governance and preprocessing, real-time ramanome depth analysis, microbiome heterogeneity index analysis, IRCA, and RBCS) to support a complete ramanome-analysis pipeline.</div>
 
 
 
