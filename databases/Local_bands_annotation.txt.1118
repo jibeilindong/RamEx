@@ -1,0 +1,18 @@
+Wave_num	Group	Assignment
+B782	Nucleic_acids	Cytosine,uracil_(ring_str)
+B1003	Proteins	Phenylalanine;_C–N_str
+B1032	Proteins	Phenylalanine;_C–N_str
+B1100	glycosidic	Phosphate,_CC_skeletal,_and_COC_str_from_glycosidic_link
+B1249	Nucleic_acids	Thymine,_cytosine,_adenine,_ring
+B1335	Nucleic_acids	Adenine,_guanine,_tyrosine,_tryptophan
+B1375	Nucleic_acids	Thymine,_adenine,_guanine
+B1449	Lipids	Protein/CH2_def
+B1484	Nucleic_acids	Adenine,_guanine,_tyrosine,_tryptophan
+B1576	Nucleic_acids	Guanine,_adenine_(ring_str)
+B1658	Lipids	Amide_I
+B2135	CD	C-DL
+B2186	CD	C-DP
+B2848	Lipids	C-H2_str
+B2879	Lipids	C-H3_str
+B2947	Lipids	C-H_str
+

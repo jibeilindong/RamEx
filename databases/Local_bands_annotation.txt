@@ -1,0 +1,17 @@
+Wave_num	Group	Assignment
+782	Nucleic acids	"Cytosine,uracil (ring str)"
+1003	Proteins	Phenylalanine; C¨CN str
+1032	Proteins	Phenylalanine; C¨CN str
+1100	glycosidic	"Phosphate, CC skeletal, and COC str from glycosidic link"
+1249	Nucleic acids	"Thymine, cytosine, adenine, ring"
+1335	Nucleic acids	"Adenine, guanine, tyrosine, tryptophan"
+1375	Nucleic acids	"Thymine, adenine, guanine"
+1449	Lipids	Protein/CH2 def
+1484	Nucleic acids	"Adenine, guanine, tyrosine, tryptophan"
+1576	Nucleic acids	"Guanine, adenine (ring str)"
+1658	Lipids	Amide I
+2135	CD	C-DL
+2186	CD	C-DP
+2848	Lipids	C-H2 str
+2879	Lipids	C-H3 str
+2947	Lipids	C-H str

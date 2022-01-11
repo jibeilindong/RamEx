@@ -1,0 +1,17 @@
+Package: RamanEx
+Type: Package
+Title: SCRS analysis
+Version: 0.1.0
+Author: person("Rongze Chen","Lei Zhang","Shi Huang","Lihui Ren","Yuehui He",email = "chenrz@qibebt.ac.cn",role = c("aut","cre","cre","cre","ctb"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+Depends: R (>= 4.0.0)
+Imports: data.table, dplyr, e1071, ggbiplot, ggplot2, ggpubr, ggtext,
+        hyperSpec, lattice, MASS, mixOmics, optparse, pls, pROC,
+        prospectr, R.utils, RColorBrewer, reshape2, Rmisc, Rtsne,
+        scales, tidyverse
+NeedsCompilation: no
+Packaged: 2021-10-27 01:05:27 UTC; Administrator

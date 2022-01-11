@@ -1,0 +1,3138 @@
+Wave_num	Group	Assignment
+415	lipids	Phosphatidylinositol
+416	Unknown	Unknown
+417	Unknown	Unknown
+418	lipids	Cholesterol
+419	Unknown	Unknown
+420	Unknown	Unknown
+421	Unknown	Unknown
+422	Unknown	Unknown
+423	Unknown	Unknown
+424	Unknown	Unknown
+425	Unknown	Unknown
+426	Unknown	Unknown
+427	Unknown	Unknown
+428	others	Symmetric stretching vibration of дн2 PO43-(phosphate of HA)
+429	lipids	"Cholesterol, cholesterol ester"
+430	Unknown	Unknown
+431	Unknown	Unknown
+432	Unknown	Unknown
+433	Unknown	Unknown
+434	Unknown	Unknown
+435	Unknown	Unknown
+436	Unknown	Unknown
+437	Unknown	Unknown
+438	Unknown	Unknown
+439	Unknown	Unknown
+440	Unknown	Unknown
+441	Unknown	Unknown
+442	Unknown	Unknown
+443	Unknown	Unknown
+444	Unknown	Unknown
+445	others	"N-C-S stretch (one of three thiocyanate peaks, with 2095 and 735 cm-1)"
+446	Unknown	Unknown
+447	Unknown	Unknown
+448	Unknown	Unknown
+449	Unknown	Unknown
+450	Unknown	Unknown
+451	Unknown	Unknown
+452	Unknown	Unknown
+453	Unknown	Unknown
+454	Unknown	Unknown
+455	Unknown	Unknown
+456	Unknown	Unknown
+457	Unknown	Unknown
+458	Unknown	Unknown
+459	Unknown	Unknown
+460	Unknown	Unknown
+461	Unknown	Unknown
+462	Unknown	Unknown
+463	Unknown	Unknown
+464	Unknown	Unknown
+465	Unknown	Unknown
+466	Unknown	Unknown
+467	Unknown	Unknown
+468	Unknown	Unknown
+469	Unknown	Unknown
+470	Unknown	Unknown
+471	Unknown	Unknown
+472	Unknown	Unknown
+473	Unknown	Unknown
+474	Unknown	Unknown
+475	Unknown	Unknown
+476	Unknown	Unknown
+477	carbohydrates	"Polysaccharides (amylase, amylopectin)"
+478	carbohydrates	C-C-C deformation; C-O stretching
+479	carbohydrates	C-C-C deformation
+480	Unknown	Unknown
+481	nucleic_acids	DNA
+482	Unknown	Unknown
+483	Unknown	Unknown
+484	Unknown	Unknown
+485	Unknown	Unknown
+486	Unknown	Unknown
+487	Unknown	Unknown
+488	Unknown	Unknown
+489	Unknown	Unknown
+490	carbohydrates	Glycogen
+491	Unknown	Unknown
+492	Unknown	Unknown
+493	Unknown	Unknown
+494	Unknown	Unknown
+495	Unknown	Unknown
+496	Unknown	Unknown
+497	Unknown	Unknown
+498	Unknown	Unknown
+499	Unknown	Unknown
+500	Unknown	Unknown
+501	Unknown	Unknown
+502	Unknown	Unknown
+503	Unknown	Unknown
+504	Unknown	Unknown
+505	Unknown	Unknown
+506	Unknown	Unknown
+507	Unknown	Unknown
+508	Unknown	Unknown
+509	proteins	S-S disulfide stretching band of collagen;дн(S-S) gauche-gauche-gauche (amino acid cysteine)
+510	Unknown	Unknown
+511	Unknown	Unknown
+512	Unknown	Unknown
+513	Unknown	Unknown
+514	Unknown	Unknown
+515	Unknown	Unknown
+516	Unknown	Unknown
+517	Unknown	Unknown
+518	Unknown	Unknown
+519	lipids	Phosphatidylinositol
+520	Unknown	Unknown
+521	Unknown	Unknown
+522	Unknown	Unknown
+523	Unknown	Unknown
+524	proteins	S-S disulfide stretching in proteins;Phosphatidylserine
+525	Unknown	Unknown
+526	Unknown	Unknown
+527	Unknown	Unknown
+528	Unknown	Unknown
+529	Unknown	Unknown
+530	Unknown	Unknown
+531	Unknown	Unknown
+532	Unknown	Unknown
+533	Unknown	Unknown
+534	Unknown	Unknown
+535	lipids;proteins	Cholesterol ester;дн(S-S) gauche-gauche-trans (amino acid cysteine)
+536	Unknown	Unknown
+537	Unknown	Unknown
+538	lipids	Cholesterol ester
+539	Unknown	Unknown
+540	proteins	дн(S-S) trans-gauche-trans (amino acid cysteine)
+541	Unknown	Unknown
+542	Unknown	Unknown
+543	Unknown	Unknown
+544	Unknown	Unknown
+545	Unknown	Unknown
+546	Unknown	Unknown
+547	Unknown	Unknown
+548	lipids	Cholesterol
+549	Unknown	Unknown
+550	Unknown	Unknown
+551	Unknown	Unknown
+552	Unknown	Unknown
+553	Unknown	Unknown
+554	Unknown	Unknown
+555	Unknown	Unknown
+556	Unknown	Unknown
+557	Unknown	Unknown
+558	Unknown	Unknown
+559	Unknown	Unknown
+560	Unknown	Unknown
+561	Unknown	Unknown
+562	Unknown	Unknown
+563	Unknown	Unknown
+564	Unknown	Unknown
+565	Unknown	Unknown
+566	Unknown	Unknown
+567	Unknown	Unknown
+568	Unknown	Unknown
+569	Unknown	Unknown
+570	Unknown	Unknown
+571	Unknown	Unknown
+572	Unknown	Unknown
+573	proteins;nucleic_acids	"Tryptophan/cytosine, guanine"
+574	Unknown	Unknown
+575	Unknown	Unknown
+576	lipids	Phosphatidylinositol
+577	Unknown	Unknown
+578	Unknown	Unknown
+579	Unknown	Unknown
+580	Unknown	Unknown
+581	Unknown	Unknown
+582	Unknown	Unknown
+583	Unknown	Unknown
+584	Unknown	Unknown
+585	Unknown	Unknown
+586	Unknown	Unknown
+587	Unknown	Unknown
+588	Unknown	Unknown
+589	lipids;others	Symmetric stretching vibration of дн4 PO43-(phosphate of HA);Glycerol
+590	Unknown	Unknown
+591	Unknown	Unknown
+592	Unknown	Unknown
+593	Unknown	Unknown
+594	Unknown	Unknown
+595	Unknown	Unknown
+596	lipids	Phosphatidylinositol
+597	Unknown	Unknown
+598	Unknown	Unknown
+599	Unknown	Unknown
+600	Unknown	Unknown
+601	Unknown	Unknown
+602	Unknown	Unknown
+603	Unknown	Unknown
+604	Unknown	Unknown
+605	Unknown	Unknown
+606	Unknown	Unknown
+607	lipids	Glycerol
+608	lipids	Cholesterol
+609	Unknown	Unknown
+610	Unknown	Unknown
+611	Unknown	Unknown
+612	Unknown	Unknown
+613	Unknown	Unknown
+614	lipids	Cholesterol ester
+615	Unknown	Unknown
+616	Unknown	Unknown
+617	Unknown	Unknown
+618	proteins	C-C twisting (protein)
+619	Unknown	Unknown
+620	others	C-C twist aromatic ring (one of CC vibrations to be expected in aromatic structure of xylene)
+621	proteins	C-C twisting mode of phenylalanine (proteins)
+622	Unknown	Unknown
+623	Unknown	Unknown
+624	Unknown	Unknown
+625	Unknown	Unknown
+626	Unknown	Unknown
+627	Unknown	Unknown
+628	Unknown	Unknown
+629	Unknown	Unknown
+630	lipids	Glycerol
+631	Unknown	Unknown
+632	Unknown	Unknown
+633	Unknown	Unknown
+634	Unknown	Unknown
+635	Unknown	Unknown
+636	Unknown	Unknown
+637	Unknown	Unknown
+638	Unknown	Unknown
+639	proteins	Tyrosine ring breathing
+640	proteins	C-S stretching and C-C twisting of proteins; tyrosine
+641	Unknown	Unknown
+642	Unknown	Unknown
+643	proteins	C-C twisting mode of tyrosine
+644	Unknown	Unknown
+645	proteins	C-C twisting mode of phenylalanine (proteins)
+646	proteins	C-C twisting mode of tyrosine
+647	Unknown	Unknown
+648	Unknown	Unknown
+649	Unknown	Unknown
+650	Unknown	Unknown
+651	Unknown	Unknown
+652	Unknown	Unknown
+653	Unknown	Unknown
+654	Unknown	Unknown
+655	Unknown	Unknown
+656	Unknown	Unknown
+657	Unknown	Unknown
+658	Unknown	Unknown
+659	Unknown	Unknown
+660	Unknown	Unknown
+661	Unknown	Unknown
+662	proteins	C-S stretching mode of cystine (collagen type I)
+663	Unknown	Unknown
+664	Unknown	Unknown
+665	Unknown	Unknown
+666	nucleic_acids	"G, T (ring breathing modes in the DNA bases); tyrosine-G backbone in RNA"
+667	Unknown	Unknown
+668	Unknown	Unknown
+669	nucleic_acids	"C-S stretching mode of cytosine;дн7(д─: porphyrin deformation), observed in the spectra of single human RBC"
+670	Unknown	Unknown
+671	proteins	Ring breathing of tryptophan
+672	Unknown	Unknown
+673	Unknown	Unknown
+674	Unknown	Unknown
+675	Unknown	Unknown
+676	Unknown	Unknown
+677	Unknown	Unknown
+678	nucleic_acids	Ring breathing modes in the DNA bases G (ring breathing modes in the DNA bases)/C-2 -endo-anti
+679	Unknown	Unknown
+680	Unknown	Unknown
+681	Unknown	Unknown
+682	Unknown	Unknown
+683	Unknown	Unknown
+684	Unknown	Unknown
+685	Unknown	Unknown
+686	Unknown	Unknown
+687	Unknown	Unknown
+688	Unknown	Unknown
+689	Unknown	Unknown
+690	Unknown	Unknown
+691	Unknown	Unknown
+692	Unknown	Unknown
+693	Unknown	Unknown
+694	Unknown	Unknown
+695	Unknown	Unknown
+696	Unknown	Unknown
+697	Unknown	Unknown
+698	Unknown	Unknown
+699	Unknown	Unknown
+700	Unknown	Unknown
+701	Unknown	Unknown
+702	lipids	"Cholesterol, cholesterol ester"
+703	Unknown	Unknown
+704	Unknown	Unknown
+705	Unknown	Unknown
+706	Unknown	Unknown
+707	Unknown	Unknown
+708	Unknown	Unknown
+709	Unknown	Unknown
+710	Unknown	Unknown
+711	Unknown	Unknown
+712	Unknown	Unknown
+713	Unknown	Unknown
+714	Unknown	Unknown
+715	Unknown	Unknown
+716	Unknown	Unknown
+717	Unknown	Unknown
+718	others	Choline group
+719	lipids	"C-N (membrane phospholipid head)/nucleotide peak;Symmetric stretch vibration of choline group N+(CH3)3,characteristic for phospholipids;Phosphatidylcholine, sphingomyelin C-C-N+ symmetric stretching in phosphatidylcholine (lipid assignment)"
+720	Unknown	Unknown
+721	Unknown	Unknown
+722	Unknown	Unknown
+723	Unknown	Unknown
+724	nucleic_acids	Nucleic acids
+725	nucleic_acids	A (ring breathing mode of DNA/RNA bases)
+726	proteins	"C-S (protein), CH2 rocking, adenine"
+727	Unknown	Unknown
+728	proteins	Ring breathing of tryptophan
+729	nucleic_acids	adenine
+730	Unknown	Unknown
+731	Unknown	Unknown
+732	Unknown	Unknown
+733	proteins	Phosphatidylserine
+734	Unknown	Unknown
+735	others	"C-S stretch (one of three thiocyanate peaks, with 2095 and 445 cm-1)"
+736	Unknown	Unknown
+737	Unknown	Unknown
+738	Unknown	Unknown
+739	Unknown	Unknown
+740	Unknown	Unknown
+741	Unknown	Unknown
+742	nucleic_acids;proteins	"DNA, tryptophan"
+743	Unknown	Unknown
+744	carbohydrates;carotenoids	H-C-O stretches and chlorophyll a N-C-C deformation
+745	Unknown	Unknown
+746	nucleic_acids	T (ring breathing mode of DNA/RNA bases)
+747	Unknown	Unknown
+748	nucleic_acids	DNA
+749	proteins	Symmetric breathing of tryptophan (protein assignment)
+750	others	"CH2,6 out-of-plane bending, observed in the spectra of single human RBC;Lactic acid"
+751	Unknown	Unknown
+752	others	"дн15 (porphyrin breathing mode), (the most informative about the status of RBC and a direct measure of the heme groups of the hemoglobins);DNA"
+753	Unknown	Unknown
+754	Unknown	Unknown
+755	Unknown	Unknown
+756	Unknown	Unknown
+757	Unknown	Unknown
+758	Unknown	Unknown
+759	proteins	Tryptophan;Ethanolamine group;Phosphatidylethanolamine
+760	proteins	"Tryptophan, д─(ring);Ring breathing tryptophan (proteins)"
+761	Unknown	Unknown
+762	Unknown	Unknown
+763	Unknown	Unknown
+764	Unknown	Unknown
+765	Unknown	Unknown
+766	nucleic_acids	Pyrimidine ring breathing mode
+767	Unknown	Unknown
+768	Unknown	Unknown
+769	Unknown	Unknown
+770	Unknown	Unknown
+771	Unknown	Unknown
+772	Unknown	Unknown
+773	Unknown	Unknown
+774	Unknown	Unknown
+775	Unknown	Unknown
+776	lipids	Phosphatidylinositol
+777	Unknown	Unknown
+778	Unknown	Unknown
+779	Unknown	Unknown
+780	nucleic_acids	Uracil-based ring breathing mode
+781	nucleic_acids	Cytosine/uracil ring breathing (nucleotide)
+782	nucleic_acids	"DNA;Thymine, cytosine, uracil;RNA;U, T, C (ring breathing modes in the DNA/RNA bases)"
+783	Unknown	Unknown
+784	Unknown	Unknown
+785	nucleic_acids	"U, T, C (ring breathing modes in the DNA/RNA bases);Backbone O-P-O"
+786	nucleic_acids	"DNA: O-P-O, cytosine, uracil, thymine;Pyrimidine ring breathing mode"
+787	nucleic_acids	Can be taken as a measure for the relative quantity of nucleic acids present;Phosphatidylserine
+788	nucleic_acids	C5-O-P-O-C3  phosphodiester bands in DNA;O-P-O stretching DNA
+789	Unknown	Unknown
+790	Unknown	Unknown
+791	nucleic_acids	Pyrimidine
+792	Unknown	Unknown
+793	Unknown	Unknown
+794	Unknown	Unknown
+795	Unknown	Unknown
+796	Unknown	Unknown
+797	Unknown	Unknown
+798	Unknown	Unknown
+799	Unknown	Unknown
+800	Unknown	Unknown
+801	Unknown	Unknown
+802	nucleic_acids	Uracil-based ring breathing mode
+803	Unknown	Unknown
+804	Unknown	Unknown
+805	Unknown	Unknown
+806	Unknown	Unknown
+807	Unknown	Unknown
+808	Unknown	Unknown
+809	Unknown	Unknown
+810	nucleic_acids	Phosphodiester (Z-marker)
+811	nucleic_acids	O-P-O stretching RNA
+812	nucleic_acids	Phosphodiester (Z-marker)
+813	nucleic_acids	One of the two most distinct peaks for RNA (with 1240 cm-1);C-C stretching (collagen assignment);C5-O-P-O-C3  phosphodiester bands in RNA
+814	Unknown	Unknown
+815	proteins;nucleic_acids	"Proline, hydroxyproline, tyrosine, дн2 PO2- stretch of nucleic acids"
+816	proteins	d (CCH) aliphatic of collagen
+817	proteins	C-C stretching (collagen assignment)
+818	Unknown	Unknown
+819	Unknown	Unknown
+820	proteins	"Protein band;Structural protein modes of tumors;Proteins, including collagen I"
+821	Unknown	Unknown
+822	nucleic_acids	Phosphodiester
+823	proteins	"Out-of-plane ring breathing, tyrosine (protein assignment)"
+824	Unknown	Unknown
+825	Unknown	Unknown
+826	nucleic_acids	O-P-O stretch DNA stretch of nucleic
+827	proteins	"Proline, hydroxyproline, tyrosine, дн2 PO2 acids"
+828	proteins;nucleic_acids	"Out-of-plane ring breathing, tyrosine/O-P-O stretch DNA;Phosphodiester;O-P-O stretching DNA/RNA;Ring breathing tyrosine"
+829	Unknown	Unknown
+830	nucleic_acids	"Proline, hydroxyproline, tyrosine, дн2 PO2- stretch of nucleic acids;C-H out-of-plane bending in benzoid ring"
+831	proteins	"Asymmetric O-P-O stretching, tyrosine"
+832	Unknown	Unknown
+833	Unknown	Unknown
+834	Unknown	Unknown
+835	Unknown	Unknown
+836	Unknown	Unknown
+837	Unknown	Unknown
+838	proteins	Deformative vibrations of amine groups
+839	Unknown	Unknown
+840	carbohydrates	д┴-Anomers;Glucose-saccharide band (overlaps with acyl band);Saccharide (д┴)
+841	Unknown	Unknown
+842	carbohydrates	Glucose
+843	Unknown	Unknown
+844	Unknown	Unknown
+845	Unknown	Unknown
+846	Unknown	Unknown
+847	carbohydrates	"Monosaccharides (д┴-glucose), (C-O-C) skeletal mode;Disaccharide (maltose), (C-O-C) skeletal mode"
+848	Unknown	Unknown
+849	Unknown	Unknown
+850	carbohydrates	Most probably due to single-bond stretching vibrations for the amino acids and valine and polysaccharides;Tyrosine (Fermi resonance of ring fundamental and overtone)
+851	Unknown	Unknown
+852	proteins;carbohydrates	"Proline, hydroxyproline, tyrosine;Tyrosine ring breathing;Glycogen"
+853	proteins;carbohydrates	Ring breathing mode of tyrosine and C-C stretch of proline ring;Glycogen
+854	proteins;carbohydrates	"(C-O-C) skeletal mode of д┴-anomers (polysaccharides, pectin);Ring breathing tyrosine (proteins)"
+855	proteins;carbohydrates	"Proline, tyrosine;дн(C-C), proline + д─(CCH) ring breathing, tyrosine (protein assignment and polysaccharide);д─(CCH) phevylalanine, olefinic (protein assignment and polysaccharide);Collagen"
+856	proteins	"Amino acid side chain vibrations of proline and hydroxyproline,as well as a (C-C) vibration of the collagen backbone;hydroxyproline (collagen type I)"
+857	Unknown	Unknown
+858	Unknown	Unknown
+859	proteins	"Tyrosine, collagen"
+860	others	Phosphate group;Phosphatidic acid
+861	Unknown	Unknown
+862	Unknown	Unknown
+863	Unknown	Unknown
+864	Unknown	Unknown
+865	carbohydrates;lipids	C-C-H and C-O-C deformations;Phospholipid C4N+ and O-C-C-N symmetric stretches
+866	carbohydrates	C-C-H and C-O-C deformations
+867	nucleic_acids	"Ribose vibration, one of the distinct RNA modes (with 915 and 974 cm-1)"
+868	proteins;carbohydrates	"C-C stretching, hypro (collagen assignment);Monosaccharides (д┬-fructose), (C-O-C) skeletal mode;Disaccharide (sucrose), (C-O-C) skeletal mode;Polysaccharides, amylase;Polysaccharides, amylopectin"
+869	proteins	Proline
+870	proteins;carbohydrates	"Most probably due to single bond stretching vibrations for the amino acids proline and valine and polysaccharides C-C stretching, hypro (collagen assignment)"
+871	Unknown	Unknown
+872	Unknown	Unknown
+873	proteins	"Hydroxyproline, tryptophan"
+874	proteins	"C-C stretching, hypro (collagen assignment)"
+875	lipids	"Antisymmetric stretch vibration of choline group N+(CH3)3, characteristic of phospholipids;Phosphatidylcholine, sphingomyelin"
+876	proteins	"дн(C-C), hydroxyproline (protein assignment);C-C stretching, hydroxyproline (collagen assignment)"
+877	lipids;carbohydrates	C-C-N+ symmetric stretching (lipids);C-O-C ring (carbohydrate)
+878	Unknown	Unknown
+879	proteins	"Hydroxyproline, tryptophan"
+880	proteins	"Tryptophan, д─(ring)"
+881	Unknown	Unknown
+882	Unknown	Unknown
+883	proteins	дЛ (CH2) (protein assignment)
+884	proteins	"Proteins, including collagen I"
+885	carbohydrates	"Disaccharide (cellobiose), (C-O-C) skeletal mode"
+886	Unknown	Unknown
+887	Unknown	Unknown
+888	Unknown	Unknown
+889	others	Methylene rocking
+890	proteins	Protein bands;Structural protein modes of tumors;д┬-Anomers
+891	carbohydrates	Saccharide band (overlaps with acyl band)
+892	Unknown	Unknown
+893	others	"Backbone, C-C skeletal"
+894	Unknown	Unknown
+895	Unknown	Unknown
+896	Unknown	Unknown
+897	Unknown	Unknown
+898	carbohydrates;nucleic_acids	"Monosaccharides (д┬-glucose), (C-O-C) skeletal mode;Disaccharide (maltose), (C-O-C) skeletal mode;Adenine"
+899	Unknown	Unknown
+900	Unknown	Unknown
+901	Unknown	Unknown
+902	Unknown	Unknown
+903	Unknown	Unknown
+904	others	C-C skeletal stretching
+905	Unknown	Unknown
+906	proteins	Tyrosine
+907	others	Formalin contamination peak on fixed tissues
+908	Unknown	Unknown
+909	Unknown	Unknown
+910	Unknown	Unknown
+911	Unknown	Unknown
+912	others	Calcium oxalate
+913	carbohydrates	Glucose
+914	Unknown	Unknown
+915	nucleic_acids	"Ribose vibration, one of the distinct RNA modes (with 915 and 974 cm-1)"
+916	Unknown	Unknown
+917	Unknown	Unknown
+918	carbohydrates;nucleic_acids	"Proline, hydroxyproline;Glycogen and lactic acid"
+919	Unknown	Unknown
+920	carbohydrates;nucleic_acids	"C-C stretch of proline ring/glucose/lactic acid;C-C, praline ring (collagen assignment)"
+921	carbohydrates;nucleic_acids	Proline ring/glucose/lactic acid/praline ring
+922	others	C-C stretch
+923	Unknown	Unknown
+924	Unknown	Unknown
+925	Unknown	Unknown
+926	Unknown	Unknown
+927	Unknown	Unknown
+928	Unknown	Unknown
+929	Unknown	Unknown
+930	Unknown	Unknown
+931	carbohydrates	Carbohydrates peak for solutions and solids
+932	others	"Skeletal C-C, д┴-helix"
+933	proteins	"Proline, hydroxyproline, дн(C-C) skeletal of collagen backbone"
+934	proteins	C-C backbone (collagen assignment)
+935	proteins	"C-C stretching mode of proline and valine and protein backbone (д┴-helix conformation)/glycogen (protein assignment);P(CH3) terminal, proline, valine + дн(CC) д┴-helix keratin (protein assignment)"
+936	Unknown	Unknown
+937	proteins;carbohydrates	"Proline (collagen type I);Amino acid side chain vibrations of proline and hydroxyproline,as well as a (C-C) vibration of the collagen backbone;C-C backbone (collagen assignment);Glycogen;дн (C-C) residues (д┴-helix);C-C stretching, д┴-helix (proteins);C-O-C glycodides (carbohydrates);Collagen"
+938	others	C-C stretch backbone
+939	Unknown	Unknown
+940	carbohydrates	C-O-C and C-O-H deformations; C-O stretching
+941	carbohydrates	"Skeletal modes (polysaccharides, amylose);Skeletal modes (polysaccharides, amylopectin)"
+942	Unknown	Unknown
+943	Unknown	Unknown
+944	Unknown	Unknown
+945	carbohydrates;proteins	"д┴-helix C-C backbone stretches, C-O-C stretches"
+946	Unknown	Unknown
+947	Unknown	Unknown
+948	Unknown	Unknown
+949	Unknown	Unknown
+950	carbohydrates;proteins	Most probably due to single bond stretching vibrations for the amino acids proline and valine and polysaccharides;Calcium phosphate stretch band
+951	proteins	днs (CH3) of proteins (д┴-helix)
+952	Unknown	Unknown
+953	Unknown	Unknown
+954	Unknown	Unknown
+955	Unknown	Unknown
+956	carotenoids	Carotenoids (absent in normal tissues)
+957	others	"Hydroxyapatite, carotenoid, cholesterol"
+958	Unknown	Unknown
+959	Unknown	Unknown
+960	others	Symmetric stretching vibration of дн1PO43- (phosphate of HA);Calcium-phosphate stretch band (high quantities of cholesterol);Quinoid ring in-plane deformation;Calcium hydroxyapatite
+961	Unknown	Unknown
+962	others	Phoisphate symmetric stretching vibration of calcium hydroxyapatite
+963	proteins	"Unassigned in protein assignments;CH2,6  out-of-plane bending"
+964	Unknown	Unknown
+965	Unknown	Unknown
+966	others	Hydroxyapatite
+967	Unknown	Unknown
+968	lipids	Lipids
+969	Unknown	Unknown
+970	proteins;nucleic_acids	Phosphate monoester groups of phosphorylated proteins and cellular nucleic acids
+971	others	дн(C-C) wagging
+972	lipids	Lipid
+973	proteins	"дЛ(CH3), д─(CCH) olefinic (protein assignment)"
+974	nucleic_acids	"Ribose vibration, one of the distinct RNA modes (with 874 and 915 cm-1)"
+975	Unknown	Unknown
+976	Unknown	Unknown
+977	Unknown	Unknown
+978	Unknown	Unknown
+979	Unknown	Unknown
+980	proteins	C-C stretching д┬-sheet (proteins)
+981	Unknown	Unknown
+982	Unknown	Unknown
+983	Unknown	Unknown
+984	Unknown	Unknown
+985	Unknown	Unknown
+986	Unknown	Unknown
+987	Unknown	Unknown
+988	Unknown	Unknown
+989	Unknown	Unknown
+990	Unknown	Unknown
+991	proteins	"Single human RBC, phenylalanine, NADH"
+992	Unknown	Unknown
+993	Unknown	Unknown
+994	Unknown	Unknown
+995	Unknown	Unknown
+996	carbohydrates	"C-O ribose, C-C-C"
+997	Unknown	Unknown
+998	Unknown	Unknown
+999	others	"дн45(CC), observed in the spectra of single human RBC"
+1000	proteins	Phenylalanine;Bound and free NADH
+1001	proteins;carotenoids	"Phenylalanine ring breath,carotene C-H bending"
+1002	proteins;carotenoids	"Phenylalanine ring breath,carotene C-H bending"
+1003	proteins;carotenoids	"Phenylalanine ring breath,carotene C-H bending"
+1004	proteins;carotenoids	"Phenylalanine ring breath,carotene C-H bending"
+1005	proteins;carotenoids	"Phenylalanine ring breath,carotene C-H bending"
+1006	proteins;carotenoids	"Phenylalanine ring breath,carotene C-H bending"
+1007	proteins;carotenoids	"Phenylalanine ring breath,carotene C-H bending"
+1008	proteins;carotenoids;carbohydrates	"Phenylalanine ring breath,carotene C-H bending;дн(CO), дн(CC), д─(OCH), ring (polysaccharides, pectin)"
+1009	Unknown	Unknown
+1010	Unknown	Unknown
+1011	proteins	Tryptophan ring breathing
+1012	Unknown	Unknown
+1013	Unknown	Unknown
+1014	Unknown	Unknown
+1015	Unknown	Unknown
+1016	carbohydrates	Carbohydrates peak for solids
+1017	carbohydrates	Ribose
+1018	carbohydrates	Stretching C-O ribose
+1019	Unknown	Unknown
+1020	Unknown	Unknown
+1021	Unknown	Unknown
+1022	carbohydrates	Glycogen
+1023	carbohydrates	Glycogen
+1024	Unknown	Unknown
+1025	carbohydrates	Carbohydrates peak for solutions;Glycogen
+1026	Unknown	Unknown
+1027	Unknown	Unknown
+1028	Unknown	Unknown
+1029	Unknown	Unknown
+1030	proteins	"Phenylalanine of collagen;дн (C-C) skeletal, keratin (protein assignment);C-H bending"
+1031	proteins	"д─(C-H), phenylalanine (protein assignment);C-H in-plane bending mode of phenylalanine;Carbohydrate residues of collagen;Phenylalanine, C-N stretching of proteins;C-H in-plane bending mode of phenylalanine"
+1032	lipids	CH2CH3 bending modes of collagen and phospholipids;C-C skeletal stretch (one of C-C ring vibration to be expected in aromatic structure of xylene);Phenylalanine of collagen;Proline (collagen assignment)
+1033	proteins;carbohydrates	"Differences in collagen content;Phenylalanine mode;дн(CO), дн(CC), дн(CCO) (polysaccharides, pectin);C-H in-plane phenylalanine (proteins)"
+1034	proteins	Phenylalanine of collagen
+1035	proteins	Collagen
+1036	Unknown	Unknown
+1037	Unknown	Unknown
+1038	Unknown	Unknown
+1039	Unknown	Unknown
+1040	Unknown	Unknown
+1041	Unknown	Unknown
+1042	Unknown	Unknown
+1043	carbohydrates;proteins	Carbohydrates peak for solutions and solids;Proline (collagen assignment)
+1044	proteins	дн3PO43- (symmetric stretching vibration of дн3PO43- of HA);Proline
+1045	Unknown	Unknown
+1046	Unknown	Unknown
+1047	Unknown	Unknown
+1048	carbohydrates	Glycogen
+1049	carbohydrates	glycogen
+1050	Unknown	Unknown
+1051	Unknown	Unknown
+1052	Unknown	Unknown
+1053	proteins	"C-O stretching, C-N stretching (protein)"
+1054	Unknown	Unknown
+1055	nucleic_acids	"In the solid, the most significant difference between the two nucleic acids is the ratio intensity of the bands in this area"
+1056	lipids	Alkyl C-C trans and gauche stretches
+1057	lipids	Lipids
+1058	Unknown	Unknown
+1059	Unknown	Unknown
+1060	Unknown	Unknown
+1061	lipids	C-C in-plane bending (one of C-C ring vibration to be expected in aromatic structure of xylene);C-N stretching;Ceramide
+1062	Unknown	Unknown
+1063	lipids	C-C skeletal stretch random conformation
+1064	lipids	Skeletal C-C stretch of lipids;Acyl chains;дн(C-C) trans
+1065	lipids;proteins	Palmitic acid;Fatty acid;Proline
+1066	lipids	Alkyl C-C gauche stretches
+1067	Unknown	Unknown
+1068	Unknown	Unknown
+1069	Unknown	Unknown
+1070	lipids	Triglycerides (fatty acids)
+1071	carbohydrates	Glucose
+1072	Unknown	Unknown
+1073	lipids	Carbonate symmetric stretching vibration of calcium carbonate;apatite;Triglycerides (fatty acids)
+1074	lipids;carbohydrates	"Glucose, triglycerides, C-C (lipid)"
+1075	lipids	Alkyl C-C gauche stretches
+1076	lipids	C-C (lipid in normal tissues);Symmetric stretching vibration of дн3PO43-(phosphate of HA)
+1077	Unknown	Unknown
+1078	lipids;nucleic_acids;carbohydrates	"дн(C-C) or дн(C-O), phospholipids (lipid assignment);Pronounced symmetric phosphate stretch;Phospholipids;C-C or C-O stretching mode of phospholipids;Carbohydrate peak for solids;C-C or C-O stretch (lipid), C-C or PO2 stretch (nucleic acid);дн(CC) skeletal"
+1079	Unknown	Unknown
+1080	lipids;nucleic_acids;carbohydrates	Amide II (?);Typical phospholipids;Phosphate vibrations (phosphodiester groups in nucleic acids);Collagen;TryptophanБ╗C-O-H bending
+1081	lipids	"дн1CO32-, дн3PO43-, дн(C-C) skeletal of acyl backbone in lipid (gauche conformation)"
+1082	carbohydrates;nucleic_acids	Carbohydrate C-O-H bending
+1083	carbohydrates;proteins;lipids	C-O and C-C stretching; C-O-H deformation;C-N stretching mode of proteins (and lipid mode of lesser degree);C-N stretching mode of proteins (and lipid mode to a lesser degree)
+1084	nucleic_acids	Phosphodiester groups in nucleic acids
+1085	Unknown	Unknown
+1086	others	дн(C-C) gauche
+1087	lipids	"дн1CO32-, дн3PO43-, дн(C-C) skeletal of acyl backbone in lipid (gauche conformation)"
+1088	Unknown	Unknown
+1089	Unknown	Unknown
+1090	others	Symmetric phosphate stretching vibrations
+1091	Unknown	Unknown
+1092	Unknown	Unknown
+1093	proteins;nucleic_acids	Symmetric PO2- stretching vibration of the DNA backbone;phosphate backbone vibration as a marker mode for the DNA concentration; C-N of proteins
+1094	nucleic_acids	DNA;C-N stretching
+1095	lipids;nucleic_acids	Lipid;дн(C-N);Phosphodioxy group (PO2- in nucleic acids)
+1096	nucleic_acids	Phosphodioxy (PO2-) groups
+1097	Unknown	Unknown
+1098	Unknown	Unknown
+1099	others	дн(C-N)
+1100	others	C-C vibration mode of the gauche-bonded chain
+1101	nucleic_acids	O-P-O backbone stretch of DNA
+1102	Unknown	Unknown
+1103	Unknown	Unknown
+1104	proteins	Phenylalanine (proteins)
+1105	carbohydrates	Carbohydrates peak for solutions
+1106	Unknown	Unknown
+1107	Unknown	Unknown
+1108	Unknown	Unknown
+1109	Unknown	Unknown
+1110	Unknown	Unknown
+1111	others	Benzoid ring deformation
+1112	carbohydrates	Saccharide band (overlaps with acyl band)
+1113	Unknown	Unknown
+1114	Unknown	Unknown
+1115	Unknown	Unknown
+1116	lipids	Alkyl C-C trans and gauche stretches
+1117	carbohydrates	Glucose
+1118	Unknown	Unknown
+1119	Unknown	Unknown
+1120	carbohydrates;nucleic_acids	"C-O-H deformation, C-O and C-C stretches;The strong C-O band of ribose (serves as a marker band for RNA in solutions);Carotene"
+1121	Unknown	Unknown
+1122	carbohydrates	"дн22 (porphyrin half ring), observed in the spectra of single human RBC;днs(CC) skeletal;днsym (C-O-C) (polysaccharides, cellulose);дн(C-C) trans"
+1123	proteins;lipids;carbohydrates	"(C-N), proteins (protein assignment);C-C stretching mode of lipids and protein, C-N stretch;Glucose"
+1124	lipids	дн(C-C) skeletal of acyl backbone in lipid (trans conformation)
+1125	carbohydrates	"C-O-H deformation,C-O and C-C stretches"
+1126	proteins;lipids;carbohydrates	"Paraffin;дн(C-C) skeletal of acyl backbone in lipid (trans conformation);C-N stretching vibration (protein vibration);дн(C-O)+ дн(C-C), disaccharides, sucrose"
+1127	carbohydrates;proteins	C-O and C-C stretching; C-O-H deformation;дн(C-N)
+1128	proteins;carbohydrates	C-N stretching (proteins);C-O stretching (carbohydrates);Ceramide
+1129	Unknown	Unknown
+1130	lipids	C-C skeletal stretch transconformation;Phospholipid structural changes (trans versus gauche isomerism);Acyl chains
+1131	lipids	Palmitic acid;Fatty acid;C-C skeletal stretching
+1132	Unknown	Unknown
+1133	Unknown	Unknown
+1134	Unknown	Unknown
+1135	Unknown	Unknown
+1136	Unknown	Unknown
+1137	Unknown	Unknown
+1138	Unknown	Unknown
+1139	Unknown	Unknown
+1140	Unknown	Unknown
+1141	Unknown	Unknown
+1142	Unknown	Unknown
+1143	Unknown	Unknown
+1144	Unknown	Unknown
+1145	Unknown	Unknown
+1146	Unknown	Unknown
+1147	Unknown	Unknown
+1148	Unknown	Unknown
+1149	carbohydrates	Carbohydrates peak for solids
+1150	carbohydrates;carotenoids	Glycogen;Carotenoid
+1151	Unknown	Unknown
+1152	proteins;carotenoids	"дн(C-N), proteins (protein assignment);дн(C-C), carotenoids;Carotenoid peaks due to C-C and conjugated C-C band stretch"
+1153	carbohydrates	Carbohydrates peak for solutions
+1154	carotenoids	д┬-Carotenes
+1155	proteins;carotenoids;carbohydrates	"CC (and CN) stretching of proteins (also carotenoids);Glycogen;дн (CC); diagnostic for the presence of a carotenoid structure,most likely a cellular pigment"
+1156	proteins	"C-C, C-N stretching (protein)"
+1157	carotenoids	In-plane vibrations of the conjugated =C-C=;д┬-Carotene accumulation (C=C stretch mode)
+1158	proteins	C-C/C-N stretching (proteins)
+1159	Unknown	Unknown
+1160	proteins;carotenoids	C-C/C-N stretching (proteins);Carotene C-H stretches
+1161	others	Deformative vibrations of quinoid ring
+1162	Unknown	Unknown
+1163	proteins	Tyrosine (collagen type I)
+1164	Unknown	Unknown
+1165	Unknown	Unknown
+1166	Unknown	Unknown
+1167	others	N=Quinoid ring=N stretching and CH in plane bending
+1168	lipids;carotenoids	"Lipids;дн(C-C) д─(COH) (lipid assignment);дн(C-C), carotenoids"
+1169	proteins	Tyrosine (collagen type I)
+1170	proteins	C-H in-plane bending mode of tyrosine
+1171	proteins	"Tyrosine (collagen type I);(CH) Phenylalanine, tyrosine"
+1172	proteins	"д─(C-H), tyrosine (protein assignment)"
+1173	proteins	"Cytosine, guanine;Tyrosine (collagen type I)"
+1174	proteins	"Tyrosine, phenylalanine, C-H bend (protein)"
+1175	Unknown	Unknown
+1176	proteins	C-H bending tyrosine (proteins)
+1177	proteins	"Cytosine, guanine"
+1178	Unknown	Unknown
+1179	Unknown	Unknown
+1180	proteins	"Cytosine, guanine"
+1181	Unknown	Unknown
+1182	Unknown	Unknown
+1183	Unknown	Unknown
+1184	Unknown	Unknown
+1185	Unknown	Unknown
+1186	Unknown	Unknown
+1187	Unknown	Unknown
+1188	Unknown	Unknown
+1189	Unknown	Unknown
+1190	Unknown	Unknown
+1191	Unknown	Unknown
+1192	Unknown	Unknown
+1193	Unknown	Unknown
+1194	Unknown	Unknown
+1195	Unknown	Unknown
+1196	Unknown	Unknown
+1197	Unknown	Unknown
+1198	Unknown	Unknown
+1199	proteins	Tryptophan ring breathing
+1200	nucleic_acids	Nucleic acids and phosphates;Aromatic C-O and C-N-
+1201	Unknown	Unknown
+1202	Unknown	Unknown
+1203	others	C-C6H5 stretch mode (one of C-C ring vibration to be expected in aromatic structure of xylene)
+1204	proteins	"Amide III and CH2 wagging vibrations from glycine backbone and proline side chains;Collagen;Tyrosine, phenylalanine (IgG)"
+1205	proteins	Differences in collagen content
+1206	proteins	"Hydroxyproline, tyrosine (collagen assignment)"
+1207	Unknown	Unknown
+1208	proteins;nucleic_acids	"дн(C-C6H5), tryptophan, phenylalanine (protein assignment);Tryptophan;A, T (ring breathing modes of the DNA/RNA bases); amide III (protein)"
+1209	proteins	Tryptophan and phenylalanine дн(C-C6H5) mode
+1210	proteins	"C-C6H5 stretching mode in tyrosine and phenylalanine;дн18(д─: CmH), observed in the spectra of single human RBC"
+1211	Unknown	Unknown
+1212	Unknown	Unknown
+1213	Unknown	Unknown
+1214	Unknown	Unknown
+1215	Unknown	Unknown
+1216	others	Stretching of CN
+1217	Unknown	Unknown
+1218	Unknown	Unknown
+1219	Unknown	Unknown
+1220	others	C=N=C stretching
+1221	Unknown	Unknown
+1222	Unknown	Unknown
+1223	proteins;nucleic_acids	"дн( PO2-), nucleic acids;Cellular nucleic acids;A concerted ring mode;Proteins, including collagen I"
+1224	proteins	Amide III (д┬ sheet structure)
+1225	Unknown	Unknown
+1226	Unknown	Unknown
+1227	Unknown	Unknown
+1228	Unknown	Unknown
+1229	Unknown	Unknown
+1230	proteins	Antisymmetric phosphate stretching vibration
+1231	Unknown	Unknown
+1232	Unknown	Unknown
+1233	Unknown	Unknown
+1234	proteins	A concerted ring mode
+1235	proteins	Amide III
+1236	Unknown	Unknown
+1237	proteins	Amide III and CH2 wagging vibrations from glycine backbone and proline side chains
+1238	Unknown	Unknown
+1239	proteins	Amide III
+1240	nucleic_acids	One of the two most distinct peaks for RNA (with 813 cm-1);Differences in collagen content;Asymmetric phosphate [PO2- (asym.)] stretching modes;Collagen
+1241	lipids;nucleic_acids	"Asymmetric phosphate [PO2- (asym.)] stretching modes (phosphate stretching modes originate from the phosphodiester groups of nucleic acids and suggest an increase in the nucleic acids in the malignant tissues).(Generally, the PO2- groups of phospholipids do not contribute to these bands)"
+1242	proteins	Amide III (д┬ sheet and random coils)
+1243	proteins;lipids;nucleic_acids	"Amide III;Asymmetric phosphate [PO2- (asym.)] stretching modes (phosphate stretching modes originate from the phosphodiester groups of nucleic acids and suggest an increase the in nucleic acids in the malignant tissues). (Generally, the PO2- groups of phospholipids do not contribute to these bands);C-O4 aromatic stretch;Amide III of collagen (CH2 wagging, C-N stretching) and pyrimidine bases (C, T)"
+1244	Unknown	Unknown
+1245	proteins	Amide III
+1246	proteins	Amide III (of collagen)
+1247	proteins	"Amide III (collagen assignment);guanie,cytosine"
+1248	proteins	Amide III
+1249	Unknown	Unknown
+1250	proteins	Amide III
+1251	Unknown	Unknown
+1252	proteins	C-O4 aromatic stretch
+1253	Unknown	Unknown
+1254	others	Formalin contamination on fixed tissues;C-N in plane stretching
+1255	lipids	Lipids
+1256	Unknown	Unknown
+1257	proteins;nucleic_acids	"A, T (ring breathing modes of the DNA/RNA bases); amide III (protein)"
+1258	proteins;nucleic_acids	"Amide III, adenine, cytosine;CH2 in plane deformation"
+1259	proteins	"Guanine, cytosine (NH2);Amide III"
+1260	proteins;lipids	Amide III (protein band);Protein band;Second amide;Amide III (unordered);Structural protein modes of tumors;Amide III vibration mode of structural proteins;CH2 in-plane deformation (lipids);Alkyl =C-H cis stretches
+1261	Unknown	Unknown
+1262	Unknown	Unknown
+1263	proteins;nucleic_acids	"T, A (ring breathing modes of the DNA/RNA bases); =CH bend (protein)"
+1264	lipids	Triglycerides (fatty acids);Alkyl =C-H cis stretches
+1265	lipids;proteins	"Amide III of collagen;Amide III (collagen assignment);Amide III;дн(CN), д─(NH) amide III, д┴-helix, collagen (protein assignment);Alkyl =C-H cis stretches"
+1266	proteins	"Amide III (of proteins in the д┴-helix conformation);дн(CN), д─(NH) amide III, д┴-helix, collagen, tryptophan (protein assignment);д─(CH) cis;Amide III (д┴-helix)"
+1267	lipids;proteins	C-H (lipid in normal tissue);Amide III (collagen assignment)
+1268	lipids	(CH) (phospholipids)
+1269	Unknown	Unknown
+1270	Unknown	Unknown
+1271	Unknown	Unknown
+1272	Unknown	Unknown
+1273	Unknown	Unknown
+1274	Unknown	Unknown
+1275	Unknown	Unknown
+1276	Unknown	Unknown
+1277	Unknown	Unknown
+1278	Unknown	Unknown
+1279	Unknown	Unknown
+1280	Unknown	Unknown
+1281	Unknown	Unknown
+1282	Unknown	Unknown
+1283	Unknown	Unknown
+1284	Unknown	Unknown
+1285	Unknown	Unknown
+1286	Unknown	Unknown
+1287	Unknown	Unknown
+1288	Unknown	Unknown
+1289	Unknown	Unknown
+1290	Unknown	Unknown
+1291	Unknown	Unknown
+1292	Unknown	Unknown
+1293	Unknown	Unknown
+1294	Unknown	Unknown
+1295	Unknown	Unknown
+1296	Unknown	Unknown
+1297	Unknown	Unknown
+1298	Unknown	Unknown
+1299	Unknown	Unknown
+1300	lipids	Alkyl C-H2 twist
+1301	lipids	"Assign from Parker (lipid in normal tissue);Triglycerides (fatty acids);дМ (CH2), lipids;C-H vibration (lipids);Lipids;CH2 twisting (lipids)"
+1302	proteins;lipids	"д─(CH2) twisting, wagging, collagen (protein assignment);д─(CH2) twisting, wagging, phospholipids (lipid assignment);CH3/CH2 twisting or bending mode of lipid/collagen;Amide III (protein);Methylene bending mode (a combination of proteins and phospholipids;Alkyl C-H2 twist"
+1303	Unknown	Unknown
+1304	lipids;nucleic_acids	"CH2 deformation (lipid), adenine, cytosine"
+1305	Unknown	Unknown
+1306	Unknown	Unknown
+1307	lipids;proteins	"CH3/CH2 twisting or bending mode of lipid/collagen;CH3/CH2 twisting, wagging, and/or bending mode of collagens and lipids"
+1308	proteins	C-N asymmetric stretching in asymmetric aromatic amines
+1309	lipids;proteins	"CH3/CH2 twisting or bending mode of lipid/collagen;CH3/CH2 twisting, wagging, and/or bending mode of collagens and lipids"
+1310	Unknown	Unknown
+1311	Unknown	Unknown
+1312	Unknown	Unknown
+1313	lipids;proteins	CH3CH2 twisting mode of collagen/lipid
+1314	proteins	CH3CH2 twisting mode of collagen
+1315	nucleic_acids	"Guanine (B, Z-marker)"
+1316	Unknown	Unknown
+1317	Unknown	Unknown
+1318	nucleic_acids;proteins	G (ring breathing modes of the DNA/RNA bases); C-H;deformation (protein);Amide III (д┴-helix)
+1319	nucleic_acids;proteins	"Guanine (B, Z-marker);CH3CH2 twisting (collagen assignment)"
+1320	nucleic_acids;proteins	G (DNA/RNA);CH deformation (proteins)
+1321	lipids;proteins	Amide III (д┴-helix);CH2 deformation of lipids
+1322	proteins;nucleic_acids	"CH3CH2 twisting, collagen;CH3CH2 twisting and wagging in collagen;CH3CH2 deforming modes of collagen and nucleic acids"
+1323	nucleic_acids	"Guanine (B, Z marker);CH deformation"
+1324	proteins;nucleic_acids	CH3CH2 wagging mode present in collagen and purine bases of DNA
+1325	Unknown	Unknown
+1326	Unknown	Unknown
+1327	Unknown	Unknown
+1328	Unknown	Unknown
+1329	Unknown	Unknown
+1330	lipids;nucleic_acids	Typical phospholipids;Region associated with DNA and phospholipids;Collagen;Nucleic acids and phosphates
+1331	Unknown	Unknown
+1332	others	C-C stretch of phenyl (1) and C3-C3 stretch and C5-C5 stretch CHд┴  in-plane bend
+1333	nucleic_acids	Guanine
+1334	Unknown	Unknown
+1335	proteins;nucleic_acids	"CH3CH2 wagging, collagen (protein assignment);CH3CH2 wagging, nucleic acid;CH3CH2 wagging mode of collagen and polynucleotide chain;(DNA purine bases);CH3CH2 twisting and wagging in collagen;Cellular nucleic acids;CH3CH2 deforming modes of collagen and nucleic acids;An unassigned mode"
+1336	proteins;nucleic_acids	"Polynucleotide chain (DNA purine bases);д─(CH3) д─(CH2) twisting, collagen (protein assignment)"
+1337	proteins;nucleic_acids	"Amide III and CH2 wagging vibrations from glycine backbone and proline side chains;A, G (ring breathing modes in the DNA bases); C-;deformation (protein)"
+1338	Unknown	Unknown
+1339	others	C-C stretch of phenyl (1) and C3-C3 stretch and C5-O5 stretch CHд┴  in-plane bend
+1340	carbohydrates;carotenoids;nucleic_acids;proteins	"Carbohydrate C-H2 deformation and C-O-H bending, chlorophyll a C-N stretches;Nucleic acid mode;Differences in collagen content;Nucleic acid modes indicating the nucleic acid content in tissues;C-O stretching; C-O-H deformation"
+1341	nucleic_acids	A or G of DNA
+1342	proteins;lipids;carbohydrates	G (DNA/RNA);CH deformation (proteins and carbohydrates)
+1343	proteins;carbohydrates	"CH3, CH2 wagging (collagen assignment);Glucose"
+1344	Unknown	Unknown
+1345	Unknown	Unknown
+1346	Unknown	Unknown
+1347	Unknown	Unknown
+1348	Unknown	Unknown
+1349	Unknown	Unknown
+1350	Unknown	Unknown
+1351	Unknown	Unknown
+1352	Unknown	Unknown
+1353	Unknown	Unknown
+1354	Unknown	Unknown
+1355	Unknown	Unknown
+1356	Unknown	Unknown
+1357	Unknown	Unknown
+1358	Unknown	Unknown
+1359	proteins	Tryptophan
+1360	Unknown	Unknown
+1361	Unknown	Unknown
+1362	Unknown	Unknown
+1363	Unknown	Unknown
+1364	Unknown	Unknown
+1365	proteins	Tryptophan
+1366	Unknown	Unknown
+1367	lipids	днs (CH3) (phosphplipids)
+1368	Unknown	Unknown
+1369	proteins;lipids	"Guanine, TRP (protein), porphyrins, lipids"
+1370	carbohydrates	The most pronounced saccharide band
+1371	others	CH3 stretching
+1372	Unknown	Unknown
+1373	nucleic_acids	"T, A, G (ring breathing modes of the DNA/RNA bases)"
+1374	Unknown	Unknown
+1375	Unknown	Unknown
+1376	Unknown	Unknown
+1377	Unknown	Unknown
+1378	others	Paraffin
+1379	lipids	д─CH3 symmetric (lipid assignment)
+1380	Unknown	Unknown
+1381	Unknown	Unknown
+1382	Unknown	Unknown
+1383	others	CH3 band
+1384	Unknown	Unknown
+1385	Unknown	Unknown
+1386	others	CH3 band
+1387	Unknown	Unknown
+1388	Unknown	Unknown
+1389	Unknown	Unknown
+1390	Unknown	Unknown
+1391	others	CH rocking
+1392	others	"C-N stretching, quinoid ring"
+1393	others	CH rocking
+1394	Unknown	Unknown
+1395	Unknown	Unknown
+1396	carotenoids	д┬-carotene
+1397	Unknown	Unknown
+1398	others	C-O symmetric stretch;CH2 deformation
+1399	Unknown	Unknown
+1400	others	NH in-plane deformation
+1401	proteins	Bending modes of methyl groups (one of vibrational modes of collagen)
+1402	Unknown	Unknown
+1403	Unknown	Unknown
+1404	others	CH deformation
+1405	Unknown	Unknown
+1406	proteins	днs COO- (IgG?)
+1407	Unknown	Unknown
+1408	Unknown	Unknown
+1409	proteins	днs COO- (IgG?)
+1410	Unknown	Unknown
+1411	Unknown	Unknown
+1412	Unknown	Unknown
+1413	Unknown	Unknown
+1414	Unknown	Unknown
+1415	Unknown	Unknown
+1416	Unknown	Unknown
+1417	others	C-C stretching in quinoid ring
+1418	Unknown	Unknown
+1419	Unknown	Unknown
+1420	Unknown	Unknown
+1421	nucleic_acids	"A, G (ring breathing modes of the DNA/RNA bases)"
+1422	nucleic_acids	"Deoxyribose (B, Z-marker)"
+1423	others	NH in-plane deformation
+1424	nucleic_acids	"Deoxyribose (B, Z-marker)"
+1425	Unknown	Unknown
+1426	Unknown	Unknown
+1427	Unknown	Unknown
+1428	Unknown	Unknown
+1429	Unknown	Unknown
+1430	Unknown	Unknown
+1431	Unknown	Unknown
+1432	Unknown	Unknown
+1433	Unknown	Unknown
+1434	Unknown	Unknown
+1435	Unknown	Unknown
+1436	others	CH2 scissoring
+1437	lipids	CH2 (lipids in normal tissue);CH2 deformation (lipid);Acyl chains
+1438	Unknown	Unknown
+1439	lipids	"CH2 bending mode in normal tissue;CH3,CH2 deformation (collagen assignment);CH2 scissoring;CH2 deformation in normal breast tissue;CH2 deformation;CH2;д─(CH2) (lipids)"
+1440	lipids	"CH2 and CH3 deformation vibrations;CH deformation;Cholesterol, fatty acid band;д─(CH2) (lipids);CH2 bending (lipids);Alkyl C-H2 bend"
+1441	lipids	Alkyl C-H2 bend;CH2 scissoring and CH3 bending in lipids;Cholesterol and its esters;C-H bending mode of accumulated lipids in the vecrotic core of the atheromatous plaque
+1442	lipids	"Fatty acids;CH2 bending mode;Due to changes in chemical environment of the CH2 bending mode;CH3, CH2 deformation (collagen assignment);Triglycerides (fatty acids)"
+1443	proteins;lipids	CH2 deformation (lipids and proteins);Triglycerides (fatty acids)
+1444	proteins;lipids	"Cholesterol band (associated to atherosclerotic spectrum);дн28 (Cд┴ Cm), observed in the spectra of single human RBC;д─(CH2), lipids, fatty acids;д─(CH2), д─(CH3), collagen (protein assignment);д─(CH2), д─(CH3), scissoring, phospholipids (lipid assignment);CH2CH3 bending modes of collagen and phospholipids;CH2 scissoring"
+1445	proteins;lipids	CH2 bending mode of proteins and lipids being of diagnostic significance;CH2 bending and scissoring modes of collagen and phospholipids;Methylene bending mode (a combination of proteins and phospholipids);CH2 bending modes;CH2 deformation
+1446	proteins;lipids	CH2 bending mode of proteins and lipids;CH2 deformation
+1447	proteins;lipids	"CH2 bending mode of proteins and lipids;CH2 deformation (protein vibration), a marker for protein concentration;д─as(CH3) д─(CH2) of proteins"
+1448	proteins;lipids	CH2CH3 deformation;CH2 deformation;CH2;Collagen;CH deformation
+1449	proteins;lipids	C-H vibration (proteins);C-H vibration (lipids);Lipids
+1450	proteins;lipids;carbohydrates	"CH2 bending;CH2 bending mode in malignant tissues;Bending modes of methyl groups (one of thevibrational modes of collagen);Methylene deformation in biomolecules;CH2 deformation in IDC breast tissue;C-H deformation bands (CH functional groups in lipids, amino acid side chains of the proteins and carbohydrates);д─(C-H);CH2 bending (proteins)"
+1451	proteins	CH2CH3 deformation;CH2CH3 deformation (collagen assignment)
+1452	Unknown	Unknown
+1453	proteins	Protein bands;Umbrella mode of methoxyl (4);C-H bending mode of structural proteins;Structural protein modes of tumors
+1454	lipids;proteins	"CH2 stretching/CH3 asymmetric deformation;Overlapping asymmetric CH3 bending and CH2 scissoring (is associated with elastin, collagen, and phospholipids);Collagen and phospholipids"
+1455	nucleic_acids	Deoxyribose;д─(CH2)
+1456	Unknown	Unknown
+1457	nucleic_acids	Deoxyribose
+1458	nucleic_acids	Nucleic acid modes;Nucleic acid modes indicating the nucleic acid content in tissues
+1459	nucleic_acids	Deoxyribose;д─(CH2)
+1460	proteins;lipids	"CH2/CH3 deformation of lipids and collagen;CH2 wagging, CH2/CH3 deformation;Deoxyribose"
+1461	Unknown	Unknown
+1462	carbohydrates	"д─CH2, disaccharides, sucrose"
+1463	others	Fermi interaction д─(CH2) and д├ (CH2)
+1464	Unknown	Unknown
+1465	lipids	Lipids
+1466	Unknown	Unknown
+1467	Unknown	Unknown
+1468	Unknown	Unknown
+1469	Unknown	Unknown
+1470	others	C=N stretching
+1471	Unknown	Unknown
+1472	others	Paraffin
+1473	Unknown	Unknown
+1474	Unknown	Unknown
+1475	Unknown	Unknown
+1476	Unknown	Unknown
+1477	others	Calcium oxalate
+1478	Unknown	Unknown
+1479	Unknown	Unknown
+1480	Unknown	Unknown
+1481	Unknown	Unknown
+1482	Unknown	Unknown
+1483	Unknown	Unknown
+1484	Unknown	Unknown
+1485	nucleic_acids	"G, A (ring breathing modes in the DNA bases);Nucleotide acid purine bases (guanine and adenine)"
+1486	Unknown	Unknown
+1487	Unknown	Unknown
+1488	proteins	Collagen
+1489	Unknown	Unknown
+1490	nucleic_acids	DNA;Formalin peak appearing in the fixed normal and tumor tissues
+1491	others	C-N stretching vibration coupled with the in-plane CH bending in amino radical cations
+1492	others	Formalin peak appearing in the fixed normal and tumor tissues
+1493	Unknown	Unknown
+1494	Unknown	Unknown
+1495	Unknown	Unknown
+1496	Unknown	Unknown
+1497	Unknown	Unknown
+1498	Unknown	Unknown
+1499	others	C-C stretching in benzenoid ring
+1500	Unknown	Unknown
+1501	Unknown	Unknown
+1502	Unknown	Unknown
+1503	Unknown	Unknown
+1504	Unknown	Unknown
+1505	Unknown	Unknown
+1506	others	N-H bending
+1507	Unknown	Unknown
+1508	Unknown	Unknown
+1509	Unknown	Unknown
+1510	nucleic_acids	Cytosine
+1511	Unknown	Unknown
+1512	Unknown	Unknown
+1513	nucleic_acids	Cytosine
+1514	carotenoids	"дн(C-C); diagnostic for the presence of a carotenoid structure,most likely a cellular pigment;дн(C-C) carotenoids"
+1515	nucleic_acids	Cytosine
+1516	Unknown	Unknown
+1517	carotenoids	д┬-Carotene accumulation (C-C stretch mode)
+1518	carotenoids	"дн(C-C), porphyrin;Carotenoid peaks due to C-C and conjugated CC band stretch"
+1519	Unknown	Unknown
+1520	carotenoids	Carotene
+1521	Unknown	Unknown
+1522	Unknown	Unknown
+1523	Unknown	Unknown
+1524	carotenoids	Carotenoid (absent in normal tissues)
+1525	carotenoids	In-plane vibrations of the conjugated -C-C-
+1526	carotenoids	Carotenoids
+1527	Unknown	Unknown
+1528	carotenoids	Carotenoid (absent in normal tissues)
+1529	Unknown	Unknown
+1530	Unknown	Unknown
+1531	Unknown	Unknown
+1532	Unknown	Unknown
+1533	Unknown	Unknown
+1534	Unknown	Unknown
+1535	Unknown	Unknown
+1536	Unknown	Unknown
+1537	carotenoids	Carotene C=C stretches
+1538	Unknown	Unknown
+1539	Unknown	Unknown
+1540	Unknown	Unknown
+1541	Unknown	Unknown
+1542	proteins	"Single human RBC, amide II"
+1543	others	"дн11 (Cд┬ Cд┬ ), observed in the spectra of single human RBC"
+1544	proteins	Amide II
+1545	others	C6-H deformation mode
+1546	proteins	Bound and free NADH;Tryptophan
+1547	proteins	Proline
+1548	proteins	Tryptophan
+1549	Unknown	Unknown
+1550	Unknown	Unknown
+1551	Unknown	Unknown
+1552	proteins	"Tryptophan;дн(C-C), tryptophan (protein assignment);дн(C-C), porphyrin"
+1553	Unknown	Unknown
+1554	proteins	Amide II
+1555	Unknown	Unknown
+1556	Unknown	Unknown
+1557	Unknown	Unknown
+1558	proteins	"Tryptophan;дн (CN) and д─ (NH) amide II (protein assignment);дн(C-C) porphyrin;Tyrosine, amide II, COO-"
+1559	Unknown	Unknown
+1560	proteins	Tryptophan
+1561	Unknown	Unknown
+1562	Unknown	Unknown
+1563	Unknown	Unknown
+1564	Unknown	Unknown
+1565	Unknown	Unknown
+1566	Unknown	Unknown
+1567	Unknown	Unknown
+1568	Unknown	Unknown
+1569	Unknown	Unknown
+1570	Unknown	Unknown
+1571	Unknown	Unknown
+1572	Unknown	Unknown
+1573	nucleic_acids;proteins	"Guanine, adenine, TRP (protein)"
+1574	Unknown	Unknown
+1575	nucleic_acids	"Ring breathing modes in the DNA bases;G, A (ring breathing modes of the DNA/RNA bases)"
+1576	nucleic_acids	Nucleic acid mode;Nucleic acid modes indicating the nucleic acid content in tissues
+1577	others	Bound and free NADH;IgG?
+1578	nucleic_acids	"Guanine (N3);Guanine, adenine"
+1579	proteins;nucleic_acids	Pyrimidine ring (nucleic acids) and heme protein
+1580	proteins	C-C stretching;C-C bending mode of phenylalanine
+1581	Unknown	Unknown
+1582	proteins	"д─(C-C), phenylalanine;Phenylalanine"
+1583	proteins	C-C bending mode of phenylalanine
+1584	Unknown	Unknown
+1585	proteins	"C-C olefinic stretch;C-C olefinic stretch (protein assignment);Phenylalanine, hydroxyproline"
+1586	proteins	"C-C olefinic stretch;C-C olefinic stretch (protein assignment);Phenylalanine, hydroxyproline"
+1587	Unknown	Unknown
+1588	Unknown	Unknown
+1589	Unknown	Unknown
+1590	others	Carbon particles
+1591	Unknown	Unknown
+1592	Unknown	Unknown
+1593	others	C=N and C-C stretching in quinoid ring
+1594	Unknown	Unknown
+1595	Unknown	Unknown
+1596	Unknown	Unknown
+1597	Unknown	Unknown
+1598	Unknown	Unknown
+1599	Unknown	Unknown
+1600	Unknown	Unknown
+1601	Unknown	Unknown
+1602	proteins	"Phenylalanine;д─(C-C), phenylalanine (protein assignment)"
+1603	proteins	C-C in-plane bending mode of phenylalanine and tyrosine;Ring C-C stretch of phenyl (1)
+1604	Unknown	Unknown
+1605	proteins	"Cytosine (NH2);Ring C-C stretch of phenyl (1);Phenylalanine, tyrosine, CC (protein)"
+1606	others	C-C bending
+1607	proteins	"Tyrosine, phenylalanine ring vibration;C-C phenylalanine, tyrosine"
+1608	Unknown	Unknown
+1609	Unknown	Unknown
+1610	proteins	Amide I;Cytosine (NH2)
+1611	Unknown	Unknown
+1612	Unknown	Unknown
+1613	Unknown	Unknown
+1614	proteins	Tyrosine
+1615	proteins;nucleic_acids	"Tyrosine, tryptophan, C-C (protein);Adenine"
+1616	proteins	C-C stretching mode of tyrosine and tryptophan
+1617	proteins	"дн (CaCb), observed in the spectra of single human RBC;C-C phenylalanine, tyrosine"
+1618	proteins	"дн(C-C), tryptophan (protein assignment);дн(C-C), porphyrin;Tryptophan;Bound and free NADH"
+1619	Unknown	Unknown
+1620	others	"дн(C-C), porphyrin"
+1621	Unknown	Unknown
+1622	proteins	Tryptophan;Tryptophan and/or д┬-sheet;Tryptophan (IgG)
+1623	proteins	Tryptophan
+1624	Unknown	Unknown
+1625	Unknown	Unknown
+1626	Unknown	Unknown
+1627	Unknown	Unknown
+1628	proteins	Cд┴ =Cд┴  stretch;Amide C=O stretching absorption for the д┬-form polypeptide films
+1629	Unknown	Unknown
+1630	Unknown	Unknown
+1631	Unknown	Unknown
+1632	Unknown	Unknown
+1633	Unknown	Unknown
+1634	proteins	Amide I
+1635	proteins	Differences in collagen content
+1636	Unknown	Unknown
+1637	proteins	Amide I band;Amide I band (both д┴-helix and д┬-structure)
+1638	others	Intermolecular bending mode of water;Very weak and broad дн2 mode of water
+1639	Unknown	Unknown
+1640	Unknown	Unknown
+1641	Unknown	Unknown
+1642	Unknown	Unknown
+1643	Unknown	Unknown
+1644	Unknown	Unknown
+1645	proteins	Amide I (д┴-helix)
+1646	Unknown	Unknown
+1647	others	Random coils
+1648	Unknown	Unknown
+1649	Unknown	Unknown
+1650	lipids;proteins	Alkyl C=C stretches;(C-C) amide I;Protein amide I absorption;Amide I
+1651	Unknown	Unknown
+1652	Unknown	Unknown
+1653	proteins	"Carbonyl stretch (C-O), amide I"
+1654	proteins;lipids	"Due to a combination of CC stretch and the amide I bands +;amide I;Amide I (collagen assignment);C-C stretch;Amide I (CO stretching mode of proteins, д┴-helix conformation)/CC lipid strech;Collagen"
+1655	proteins;lipids	"Amide I (of collagen);C-C (of lipids in normal tissues, not that of amide I);дн(C-O) amide I, д┴-helix, collagen;Amide I (CO stretching mode of proteins, д┴-helix conformation)/CC lipid stretch;In normal tissues: C-C of lipids (and not amide I);C-O stretching of collagen and elastin (protein assignment);Amide I of proteins;Amide I (collagen assignment);Amide I (typically associated with collagen);Amide I (д┴-helix), amide I"
+1656	lipids;proteins	Alkyl C=C stretches;дн(C-C)cis (phospholipids);C-C (lipids);Amide I (proteins)
+1657	proteins;lipids	Fatty acids;Amide I (collagen assignment);C (fatty acids)
+1658	lipids;proteins	Alkyl C=C stretches;Amide I (д┴-helix)
+1659	proteins;lipids	Amide I vibration (collagen like proteins);Amide CO stretching absorption for the д┴-folded polypeptide films;Cholesterol band (associated to atherosclerotic spectrum);Glutathione
+1660	proteins;lipids	"Amide I band;Amide I;Amide I vibration mode of structural proteins;дн(C-C) cis, lipids, fatty acids;C-C groups in unsaturated fatty acids;Ceramide backbone;Amide I (protein);Lipids"
+1661	Unknown	Unknown
+1662	nucleic_acids	Nucleic acid modes;Nucleic acid modes indicating the nucleic acid content in tissues
+1663	proteins;nucleic_acids	"DNA;Proteins, including collagen I"
+1664	Unknown	Unknown
+1665	proteins	Amide I (of collagen);Amide I;Amide I (collagen assignment);Amide I (disordered structure-solvated);днs(C-O)
+1666	proteins	Collagen
+1667	proteins	Protein band;C-C stretching band;д┴-Helical structure of amide I;Structural protein modes of tumors;Carbonyl stretch (C-O)
+1668	Unknown	Unknown
+1669	lipids	Carbonyl stretch (C-O);Cholesterol ester
+1670	lipids;proteins	"Amide I;C-C stretching vibrations;Cholesterol and its esters;C-C stretching vibration mode of steroid ring;Amide I (anti-parallel д┬-sheet);дн(C-C) trans, lipids, fatty acids"
+1671	Unknown	Unknown
+1672	lipids;proteins	C-C stretch;Amide I band (CO stretch coupled to a N-H bending);Ceramide
+1673	proteins	Amide I
+1674	lipids	C-C stretch vibration;Cholesterol
+1675	Unknown	Unknown
+1676	proteins	Amide I (д┬-sheet)
+1677	Unknown	Unknown
+1678	others	Bound and free NADH
+1679	Unknown	Unknown
+1680	Unknown	Unknown
+1681	Unknown	Unknown
+1682	others	One of absorption positions for the CO stretching vibrations of cortisone
+1683	Unknown	Unknown
+1684	Unknown	Unknown
+1685	proteins	Amide I (disordered structure; non-hydrogen bonded)
+1686	Unknown	Unknown
+1687	Unknown	Unknown
+1688	Unknown	Unknown
+1689	Unknown	Unknown
+1690	Unknown	Unknown
+1691	Unknown	Unknown
+1692	Unknown	Unknown
+1693	Unknown	Unknown
+1694	Unknown	Unknown
+1695	Unknown	Unknown
+1696	Unknown	Unknown
+1697	proteins	Amide I (turns and bands)
+1698	Unknown	Unknown
+1699	Unknown	Unknown
+1700	Unknown	Unknown
+1701	Unknown	Unknown
+1702	Unknown	Unknown
+1703	Unknown	Unknown
+1704	Unknown	Unknown
+1705	Unknown	Unknown
+1706	Unknown	Unknown
+1707	Unknown	Unknown
+1708	Unknown	Unknown
+1709	Unknown	Unknown
+1710	lipids	One of absorption positions for the CO stretching vibrations of cortisone
+1711	Unknown	Unknown
+1712	Unknown	Unknown
+1713	Unknown	Unknown
+1714	Unknown	Unknown
+1715	Unknown	Unknown
+1716	Unknown	Unknown
+1717	Unknown	Unknown
+1718	Unknown	Unknown
+1719	Unknown	Unknown
+1720	lipids	Lipid
+1721	Unknown	Unknown
+1722	Unknown	Unknown
+1723	Unknown	Unknown
+1724	Unknown	Unknown
+1725	lipids	C-O lipids
+1726	Unknown	Unknown
+1727	Unknown	Unknown
+1728	Unknown	Unknown
+1729	lipids	Ester group
+1730	Unknown	Unknown
+1731	Unknown	Unknown
+1732	lipids	One of absorption positions for the CO stretching vibrations of cortisone
+1733	Unknown	Unknown
+1734	lipids	"Esters, C-O stretching (lipids)"
+1735	Unknown	Unknown
+1736	lipids	Ester C=O stretches;C-O ester (lipids)
+1737	lipids	C-O ester (lipids)
+1738	lipids	Lipids
+1739	lipids	Ester group
+1740	lipids	Ester group
+1741	Unknown	Unknown
+1742	Unknown	Unknown
+1743	Unknown	Unknown
+1744	lipids	Carbonyl feature of lipid spectra;Ester group
+1745	lipids;carbohydrates	"Phospholipids;дн(C-O), phospholipids (lipid assignment);дн(C-O), phospholipids;Triglycerides (fatty acids);дн(C-O) (polysaccharides, pectin)"
+1746	lipids	Ester C=O stretches;C-O stretch (lipid)
+1747	lipids	"C-O, lipids"
+1748	Unknown	Unknown
+1749	Unknown	Unknown
+1750	lipids	"C-O (lipid in normal tissues);дн(C-C) lipids, fatty acids"
+1751	Unknown	Unknown
+1752	Unknown	Unknown
+1753	Unknown	Unknown
+1754	lipids	C-O (lipid)
+1755	Unknown	Unknown
+1756	lipids	One of absorption positions for the CO stretching vibrations of cortisone
+1757	Unknown	Unknown
+1758	Unknown	Unknown
+1759	Unknown	Unknown
+1760	Unknown	Unknown
+1761	Unknown	Unknown
+1762	Unknown	Unknown
+1763	Unknown	Unknown
+1764	Unknown	Unknown
+1765	Unknown	Unknown
+1766	Unknown	Unknown
+1767	Unknown	Unknown
+1768	Unknown	Unknown
+1769	Unknown	Unknown
+1770	Unknown	Unknown
+1771	Unknown	Unknown
+1772	Unknown	Unknown
+1773	Unknown	Unknown
+1774	Unknown	Unknown
+1775	Unknown	Unknown
+1776	Unknown	Unknown
+1777	Unknown	Unknown
+1778	Unknown	Unknown
+1779	Unknown	Unknown
+1780	Unknown	Unknown
+1781	Unknown	Unknown
+1782	Unknown	Unknown
+1783	Unknown	Unknown
+1784	Unknown	Unknown
+1785	Unknown	Unknown
+1786	Unknown	Unknown
+1787	Unknown	Unknown
+1788	Unknown	Unknown
+1789	Unknown	Unknown
+1790	Unknown	Unknown
+1791	Unknown	Unknown
+1792	Unknown	Unknown
+1793	Unknown	Unknown
+1794	Unknown	Unknown
+1795	Unknown	Unknown
+1796	Unknown	Unknown
+1797	Unknown	Unknown
+1798	Unknown	Unknown
+1799	Unknown	Unknown
+1800	Unknown	Unknown
+1801	Unknown	Unknown
+1802	Unknown	Unknown
+1803	Unknown	Unknown
+1804	Unknown	Unknown
+1805	Unknown	Unknown
+1806	Unknown	Unknown
+1807	Unknown	Unknown
+1808	Unknown	Unknown
+1809	Unknown	Unknown
+1810	Unknown	Unknown
+1811	Unknown	Unknown
+1812	Unknown	Unknown
+1813	Unknown	Unknown
+1814	Unknown	Unknown
+1815	Unknown	Unknown
+1816	Unknown	Unknown
+1817	Unknown	Unknown
+1818	Unknown	Unknown
+1819	Unknown	Unknown
+1820	Unknown	Unknown
+1821	Unknown	Unknown
+1822	Unknown	Unknown
+1823	Unknown	Unknown
+1824	Unknown	Unknown
+1825	Unknown	Unknown
+1826	Unknown	Unknown
+1827	Unknown	Unknown
+1828	Unknown	Unknown
+1829	Unknown	Unknown
+1830	Unknown	Unknown
+1831	Unknown	Unknown
+1832	Unknown	Unknown
+1833	Unknown	Unknown
+1834	Unknown	Unknown
+1835	Unknown	Unknown
+1836	Unknown	Unknown
+1837	Unknown	Unknown
+1838	Unknown	Unknown
+1839	Unknown	Unknown
+1840	Unknown	Unknown
+1841	Unknown	Unknown
+1842	Unknown	Unknown
+1843	Unknown	Unknown
+1844	Unknown	Unknown
+1845	Unknown	Unknown
+1846	Unknown	Unknown
+1847	Unknown	Unknown
+1848	Unknown	Unknown
+1849	Unknown	Unknown
+1850	Unknown	Unknown
+1851	Unknown	Unknown
+1852	Unknown	Unknown
+1853	Unknown	Unknown
+1854	Unknown	Unknown
+1855	Unknown	Unknown
+1856	Unknown	Unknown
+1857	Unknown	Unknown
+1858	Unknown	Unknown
+1859	Unknown	Unknown
+1860	Unknown	Unknown
+1861	Unknown	Unknown
+1862	Unknown	Unknown
+1863	Unknown	Unknown
+1864	Unknown	Unknown
+1865	Unknown	Unknown
+1866	Unknown	Unknown
+1867	Unknown	Unknown
+1868	Unknown	Unknown
+1869	Unknown	Unknown
+1870	Unknown	Unknown
+1871	Unknown	Unknown
+1872	Unknown	Unknown
+1873	Unknown	Unknown
+1874	Unknown	Unknown
+1875	Unknown	Unknown
+1876	Unknown	Unknown
+1877	Unknown	Unknown
+1878	Unknown	Unknown
+1879	Unknown	Unknown
+1880	Unknown	Unknown
+1881	Unknown	Unknown
+1882	Unknown	Unknown
+1883	Unknown	Unknown
+1884	Unknown	Unknown
+1885	Unknown	Unknown
+1886	Unknown	Unknown
+1887	Unknown	Unknown
+1888	Unknown	Unknown
+1889	Unknown	Unknown
+1890	Unknown	Unknown
+1891	Unknown	Unknown
+1892	Unknown	Unknown
+1893	Unknown	Unknown
+1894	Unknown	Unknown
+1895	Unknown	Unknown
+1896	Unknown	Unknown
+1897	Unknown	Unknown
+1898	Unknown	Unknown
+1899	Unknown	Unknown
+1900	Unknown	Unknown
+1901	Unknown	Unknown
+1902	Unknown	Unknown
+1903	Unknown	Unknown
+1904	Unknown	Unknown
+1905	Unknown	Unknown
+1906	Unknown	Unknown
+1907	Unknown	Unknown
+1908	Unknown	Unknown
+1909	Unknown	Unknown
+1910	Unknown	Unknown
+1911	Unknown	Unknown
+1912	Unknown	Unknown
+1913	Unknown	Unknown
+1914	Unknown	Unknown
+1915	Unknown	Unknown
+1916	Unknown	Unknown
+1917	Unknown	Unknown
+1918	Unknown	Unknown
+1919	Unknown	Unknown
+1920	Unknown	Unknown
+1921	Unknown	Unknown
+1922	Unknown	Unknown
+1923	Unknown	Unknown
+1924	Unknown	Unknown
+1925	Unknown	Unknown
+1926	Unknown	Unknown
+1927	Unknown	Unknown
+1928	Unknown	Unknown
+1929	Unknown	Unknown
+1930	Unknown	Unknown
+1931	Unknown	Unknown
+1932	Unknown	Unknown
+1933	Unknown	Unknown
+1934	Unknown	Unknown
+1935	Unknown	Unknown
+1936	Unknown	Unknown
+1937	Unknown	Unknown
+1938	Unknown	Unknown
+1939	Unknown	Unknown
+1940	Unknown	Unknown
+1941	Unknown	Unknown
+1942	Unknown	Unknown
+1943	Unknown	Unknown
+1944	Unknown	Unknown
+1945	Unknown	Unknown
+1946	Unknown	Unknown
+1947	Unknown	Unknown
+1948	Unknown	Unknown
+1949	Unknown	Unknown
+1950	Unknown	Unknown
+1951	Unknown	Unknown
+1952	Unknown	Unknown
+1953	Unknown	Unknown
+1954	Unknown	Unknown
+1955	Unknown	Unknown
+1956	Unknown	Unknown
+1957	Unknown	Unknown
+1958	Unknown	Unknown
+1959	Unknown	Unknown
+1960	Unknown	Unknown
+1961	Unknown	Unknown
+1962	Unknown	Unknown
+1963	Unknown	Unknown
+1964	Unknown	Unknown
+1965	Unknown	Unknown
+1966	Unknown	Unknown
+1967	Unknown	Unknown
+1968	Unknown	Unknown
+1969	Unknown	Unknown
+1970	Unknown	Unknown
+1971	Unknown	Unknown
+1972	Unknown	Unknown
+1973	Unknown	Unknown
+1974	Unknown	Unknown
+1975	Unknown	Unknown
+1976	Unknown	Unknown
+1977	Unknown	Unknown
+1978	Unknown	Unknown
+1979	Unknown	Unknown
+1980	Unknown	Unknown
+1981	Unknown	Unknown
+1982	Unknown	Unknown
+1983	Unknown	Unknown
+1984	Unknown	Unknown
+1985	Unknown	Unknown
+1986	Unknown	Unknown
+1987	Unknown	Unknown
+1988	Unknown	Unknown
+1989	Unknown	Unknown
+1990	Unknown	Unknown
+1991	Unknown	Unknown
+1992	Unknown	Unknown
+1993	Unknown	Unknown
+1994	Unknown	Unknown
+1995	Unknown	Unknown
+1996	Unknown	Unknown
+1997	Unknown	Unknown
+1998	Unknown	Unknown
+1999	Unknown	Unknown
+2000	Unknown	Unknown
+2001	Unknown	Unknown
+2002	Unknown	Unknown
+2003	Unknown	Unknown
+2004	Unknown	Unknown
+2005	Unknown	Unknown
+2006	Unknown	Unknown
+2007	Unknown	Unknown
+2008	Unknown	Unknown
+2009	Unknown	Unknown
+2010	Unknown	Unknown
+2011	Unknown	Unknown
+2012	Unknown	Unknown
+2013	Unknown	Unknown
+2014	Unknown	Unknown
+2015	Unknown	Unknown
+2016	Unknown	Unknown
+2017	Unknown	Unknown
+2018	Unknown	Unknown
+2019	Unknown	Unknown
+2020	Unknown	Unknown
+2021	Unknown	Unknown
+2022	Unknown	Unknown
+2023	Unknown	Unknown
+2024	Unknown	Unknown
+2025	Unknown	Unknown
+2026	Unknown	Unknown
+2027	Unknown	Unknown
+2028	Unknown	Unknown
+2029	Unknown	Unknown
+2030	Unknown	Unknown
+2031	Unknown	Unknown
+2032	Unknown	Unknown
+2033	Unknown	Unknown
+2034	Unknown	Unknown
+2035	Unknown	Unknown
+2036	Unknown	Unknown
+2037	Unknown	Unknown
+2038	Unknown	Unknown
+2039	Unknown	Unknown
+2040	Unknown	Unknown
+2041	Unknown	Unknown
+2042	Unknown	Unknown
+2043	Unknown	Unknown
+2044	Unknown	Unknown
+2045	Unknown	Unknown
+2046	Unknown	Unknown
+2047	Unknown	Unknown
+2048	Unknown	Unknown
+2049	Unknown	Unknown
+2050	Unknown	Unknown
+2051	Unknown	Unknown
+2052	Unknown	Unknown
+2053	Unknown	Unknown
+2054	Unknown	Unknown
+2055	Unknown	Unknown
+2056	Unknown	Unknown
+2057	Unknown	Unknown
+2058	Unknown	Unknown
+2059	Unknown	Unknown
+2060	Unknown	Unknown
+2061	Unknown	Unknown
+2062	Unknown	Unknown
+2063	Unknown	Unknown
+2064	Unknown	Unknown
+2065	Unknown	Unknown
+2066	Unknown	Unknown
+2067	Unknown	Unknown
+2068	Unknown	Unknown
+2069	Unknown	Unknown
+2070	Unknown	Unknown
+2071	Unknown	Unknown
+2072	Unknown	Unknown
+2073	Unknown	Unknown
+2074	Unknown	Unknown
+2075	Unknown	Unknown
+2076	Unknown	Unknown
+2077	Unknown	Unknown
+2078	Unknown	Unknown
+2079	Unknown	Unknown
+2080	Unknown	Unknown
+2081	Unknown	Unknown
+2082	Unknown	Unknown
+2083	Unknown	Unknown
+2084	Unknown	Unknown
+2085	Unknown	Unknown
+2086	Unknown	Unknown
+2087	Unknown	Unknown
+2088	Unknown	Unknown
+2089	Unknown	Unknown
+2090	Unknown	Unknown
+2091	Unknown	Unknown
+2092	Unknown	Unknown
+2093	Unknown	Unknown
+2094	Unknown	Unknown
+2095	others	"C-N stretch (one of three thiocyanate peaks, with 445 and 735 cm-1)"
+2096	Unknown	Unknown
+2097	Unknown	Unknown
+2098	Unknown	Unknown
+2099	Unknown	Unknown
+2100	Unknown	Unknown
+2101	Unknown	Unknown
+2102	Unknown	Unknown
+2103	Unknown	Unknown
+2104	Unknown	Unknown
+2105	Unknown	Unknown
+2106	Unknown	Unknown
+2107	Unknown	Unknown
+2108	Unknown	Unknown
+2109	Unknown	Unknown
+2110	Unknown	Unknown
+2111	Unknown	Unknown
+2112	Unknown	Unknown
+2113	Unknown	Unknown
+2114	Unknown	Unknown
+2115	Unknown	Unknown
+2116	Unknown	Unknown
+2117	Unknown	Unknown
+2118	Unknown	Unknown
+2119	Unknown	Unknown
+2120	Unknown	Unknown
+2121	Unknown	Unknown
+2122	Unknown	Unknown
+2123	Unknown	Unknown
+2124	Unknown	Unknown
+2125	Unknown	Unknown
+2126	Unknown	Unknown
+2127	Unknown	Unknown
+2128	Unknown	Unknown
+2129	Unknown	Unknown
+2130	Unknown	Unknown
+2131	Unknown	Unknown
+2132	Unknown	Unknown
+2133	Unknown	Unknown
+2134	Unknown	Unknown
+2135	Unknown	Unknown
+2136	Unknown	Unknown
+2137	Unknown	Unknown
+2138	Unknown	Unknown
+2139	Unknown	Unknown
+2140	Unknown	Unknown
+2141	Unknown	Unknown
+2142	Unknown	Unknown
+2143	Unknown	Unknown
+2144	Unknown	Unknown
+2145	Unknown	Unknown
+2146	Unknown	Unknown
+2147	Unknown	Unknown
+2148	Unknown	Unknown
+2149	Unknown	Unknown
+2150	Unknown	Unknown
+2151	Unknown	Unknown
+2152	Unknown	Unknown
+2153	Unknown	Unknown
+2154	Unknown	Unknown
+2155	Unknown	Unknown
+2156	Unknown	Unknown
+2157	Unknown	Unknown
+2158	Unknown	Unknown
+2159	Unknown	Unknown
+2160	Unknown	Unknown
+2161	Unknown	Unknown
+2162	Unknown	Unknown
+2163	Unknown	Unknown
+2164	Unknown	Unknown
+2165	Unknown	Unknown
+2166	Unknown	Unknown
+2167	Unknown	Unknown
+2168	Unknown	Unknown
+2169	Unknown	Unknown
+2170	Unknown	Unknown
+2171	Unknown	Unknown
+2172	Unknown	Unknown
+2173	Unknown	Unknown
+2174	Unknown	Unknown
+2175	Unknown	Unknown
+2176	Unknown	Unknown
+2177	Unknown	Unknown
+2178	Unknown	Unknown
+2179	Unknown	Unknown
+2180	Unknown	Unknown
+2181	Unknown	Unknown
+2182	Unknown	Unknown
+2183	Unknown	Unknown
+2184	Unknown	Unknown
+2185	Unknown	Unknown
+2186	Unknown	Unknown
+2187	Unknown	Unknown
+2188	Unknown	Unknown
+2189	Unknown	Unknown
+2190	Unknown	Unknown
+2191	Unknown	Unknown
+2192	Unknown	Unknown
+2193	Unknown	Unknown
+2194	Unknown	Unknown
+2195	Unknown	Unknown
+2196	Unknown	Unknown
+2197	Unknown	Unknown
+2198	Unknown	Unknown
+2199	Unknown	Unknown
+2200	Unknown	Unknown
+2201	Unknown	Unknown
+2202	Unknown	Unknown
+2203	Unknown	Unknown
+2204	Unknown	Unknown
+2205	Unknown	Unknown
+2206	Unknown	Unknown
+2207	Unknown	Unknown
+2208	Unknown	Unknown
+2209	Unknown	Unknown
+2210	Unknown	Unknown
+2211	Unknown	Unknown
+2212	Unknown	Unknown
+2213	Unknown	Unknown
+2214	Unknown	Unknown
+2215	Unknown	Unknown
+2216	Unknown	Unknown
+2217	Unknown	Unknown
+2218	Unknown	Unknown
+2219	Unknown	Unknown
+2220	Unknown	Unknown
+2221	Unknown	Unknown
+2222	Unknown	Unknown
+2223	Unknown	Unknown
+2224	Unknown	Unknown
+2225	others	CАнN
+2226	Unknown	Unknown
+2227	Unknown	Unknown
+2228	Unknown	Unknown
+2229	Unknown	Unknown
+2230	Unknown	Unknown
+2231	Unknown	Unknown
+2232	Unknown	Unknown
+2233	Unknown	Unknown
+2234	Unknown	Unknown
+2235	Unknown	Unknown
+2236	Unknown	Unknown
+2237	Unknown	Unknown
+2238	Unknown	Unknown
+2239	Unknown	Unknown
+2240	Unknown	Unknown
+2241	Unknown	Unknown
+2242	Unknown	Unknown
+2243	Unknown	Unknown
+2244	Unknown	Unknown
+2245	Unknown	Unknown
+2246	Unknown	Unknown
+2247	Unknown	Unknown
+2248	Unknown	Unknown
+2249	Unknown	Unknown
+2250	Unknown	Unknown
+2251	Unknown	Unknown
+2252	Unknown	Unknown
+2253	Unknown	Unknown
+2254	Unknown	Unknown
+2255	Unknown	Unknown
+2256	Unknown	Unknown
+2257	Unknown	Unknown
+2258	Unknown	Unknown
+2259	Unknown	Unknown
+2260	Unknown	Unknown
+2261	Unknown	Unknown
+2262	Unknown	Unknown
+2263	Unknown	Unknown
+2264	Unknown	Unknown
+2265	Unknown	Unknown
+2266	Unknown	Unknown
+2267	Unknown	Unknown
+2268	Unknown	Unknown
+2269	Unknown	Unknown
+2270	Unknown	Unknown
+2271	Unknown	Unknown
+2272	Unknown	Unknown
+2273	Unknown	Unknown
+2274	Unknown	Unknown
+2275	Unknown	Unknown
+2276	Unknown	Unknown
+2277	Unknown	Unknown
+2278	Unknown	Unknown
+2279	Unknown	Unknown
+2280	Unknown	Unknown
+2281	Unknown	Unknown
+2282	Unknown	Unknown
+2283	Unknown	Unknown
+2284	Unknown	Unknown
+2285	Unknown	Unknown
+2286	Unknown	Unknown
+2287	Unknown	Unknown
+2288	Unknown	Unknown
+2289	Unknown	Unknown
+2290	Unknown	Unknown
+2291	Unknown	Unknown
+2292	Unknown	Unknown
+2293	Unknown	Unknown
+2294	Unknown	Unknown
+2295	Unknown	Unknown
+2296	Unknown	Unknown
+2297	Unknown	Unknown
+2298	Unknown	Unknown
+2299	Unknown	Unknown
+2300	Unknown	Unknown
+2301	Unknown	Unknown
+2302	Unknown	Unknown
+2303	Unknown	Unknown
+2304	Unknown	Unknown
+2305	Unknown	Unknown
+2306	Unknown	Unknown
+2307	Unknown	Unknown
+2308	Unknown	Unknown
+2309	Unknown	Unknown
+2310	Unknown	Unknown
+2311	Unknown	Unknown
+2312	Unknown	Unknown
+2313	Unknown	Unknown
+2314	Unknown	Unknown
+2315	Unknown	Unknown
+2316	Unknown	Unknown
+2317	Unknown	Unknown
+2318	Unknown	Unknown
+2319	Unknown	Unknown
+2320	Unknown	Unknown
+2321	Unknown	Unknown
+2322	Unknown	Unknown
+2323	Unknown	Unknown
+2324	Unknown	Unknown
+2325	Unknown	Unknown
+2326	Unknown	Unknown
+2327	Unknown	Unknown
+2328	Unknown	Unknown
+2329	Unknown	Unknown
+2330	Unknown	Unknown
+2331	Unknown	Unknown
+2332	Unknown	Unknown
+2333	Unknown	Unknown
+2334	Unknown	Unknown
+2335	Unknown	Unknown
+2336	Unknown	Unknown
+2337	Unknown	Unknown
+2338	Unknown	Unknown
+2339	Unknown	Unknown
+2340	Unknown	Unknown
+2341	Unknown	Unknown
+2342	Unknown	Unknown
+2343	others	Asymmetric stretching band of CO2- hydrates
+2344	Unknown	Unknown
+2345	Unknown	Unknown
+2346	Unknown	Unknown
+2347	Unknown	Unknown
+2348	Unknown	Unknown
+2349	Unknown	Unknown
+2350	Unknown	Unknown
+2351	Unknown	Unknown
+2352	Unknown	Unknown
+2353	Unknown	Unknown
+2354	Unknown	Unknown
+2355	Unknown	Unknown
+2356	Unknown	Unknown
+2357	Unknown	Unknown
+2358	Unknown	Unknown
+2359	Unknown	Unknown
+2360	Unknown	Unknown
+2361	Unknown	Unknown
+2362	Unknown	Unknown
+2363	Unknown	Unknown
+2364	Unknown	Unknown
+2365	Unknown	Unknown
+2366	Unknown	Unknown
+2367	Unknown	Unknown
+2368	Unknown	Unknown
+2369	Unknown	Unknown
+2370	Unknown	Unknown
+2371	Unknown	Unknown
+2372	Unknown	Unknown
+2373	Unknown	Unknown
+2374	Unknown	Unknown
+2375	Unknown	Unknown
+2376	Unknown	Unknown
+2377	Unknown	Unknown
+2378	Unknown	Unknown
+2379	Unknown	Unknown
+2380	Unknown	Unknown
+2381	Unknown	Unknown
+2382	Unknown	Unknown
+2383	Unknown	Unknown
+2384	Unknown	Unknown
+2385	Unknown	Unknown
+2386	Unknown	Unknown
+2387	Unknown	Unknown
+2388	Unknown	Unknown
+2389	Unknown	Unknown
+2390	Unknown	Unknown
+2391	Unknown	Unknown
+2392	Unknown	Unknown
+2393	Unknown	Unknown
+2394	Unknown	Unknown
+2395	Unknown	Unknown
+2396	Unknown	Unknown
+2397	Unknown	Unknown
+2398	Unknown	Unknown
+2399	Unknown	Unknown
+2400	Unknown	Unknown
+2401	Unknown	Unknown
+2402	Unknown	Unknown
+2403	Unknown	Unknown
+2404	Unknown	Unknown
+2405	Unknown	Unknown
+2406	Unknown	Unknown
+2407	Unknown	Unknown
+2408	Unknown	Unknown
+2409	Unknown	Unknown
+2410	Unknown	Unknown
+2411	Unknown	Unknown
+2412	Unknown	Unknown
+2413	Unknown	Unknown
+2414	Unknown	Unknown
+2415	Unknown	Unknown
+2416	Unknown	Unknown
+2417	Unknown	Unknown
+2418	Unknown	Unknown
+2419	Unknown	Unknown
+2420	Unknown	Unknown
+2421	Unknown	Unknown
+2422	Unknown	Unknown
+2423	Unknown	Unknown
+2424	Unknown	Unknown
+2425	Unknown	Unknown
+2426	Unknown	Unknown
+2427	Unknown	Unknown
+2428	Unknown	Unknown
+2429	Unknown	Unknown
+2430	Unknown	Unknown
+2431	Unknown	Unknown
+2432	Unknown	Unknown
+2433	Unknown	Unknown
+2434	Unknown	Unknown
+2435	Unknown	Unknown
+2436	Unknown	Unknown
+2437	Unknown	Unknown
+2438	Unknown	Unknown
+2439	Unknown	Unknown
+2440	Unknown	Unknown
+2441	Unknown	Unknown
+2442	Unknown	Unknown
+2443	Unknown	Unknown
+2444	Unknown	Unknown
+2445	Unknown	Unknown
+2446	Unknown	Unknown
+2447	Unknown	Unknown
+2448	Unknown	Unknown
+2449	Unknown	Unknown
+2450	Unknown	Unknown
+2451	Unknown	Unknown
+2452	Unknown	Unknown
+2453	Unknown	Unknown
+2454	Unknown	Unknown
+2455	Unknown	Unknown
+2456	Unknown	Unknown
+2457	Unknown	Unknown
+2458	Unknown	Unknown
+2459	Unknown	Unknown
+2460	Unknown	Unknown
+2461	Unknown	Unknown
+2462	Unknown	Unknown
+2463	Unknown	Unknown
+2464	Unknown	Unknown
+2465	Unknown	Unknown
+2466	Unknown	Unknown
+2467	Unknown	Unknown
+2468	Unknown	Unknown
+2469	Unknown	Unknown
+2470	Unknown	Unknown
+2471	Unknown	Unknown
+2472	Unknown	Unknown
+2473	Unknown	Unknown
+2474	Unknown	Unknown
+2475	Unknown	Unknown
+2476	Unknown	Unknown
+2477	Unknown	Unknown
+2478	Unknown	Unknown
+2479	Unknown	Unknown
+2480	Unknown	Unknown
+2481	Unknown	Unknown
+2482	Unknown	Unknown
+2483	Unknown	Unknown
+2484	Unknown	Unknown
+2485	Unknown	Unknown
+2486	Unknown	Unknown
+2487	Unknown	Unknown
+2488	Unknown	Unknown
+2489	Unknown	Unknown
+2490	Unknown	Unknown
+2491	Unknown	Unknown
+2492	Unknown	Unknown
+2493	Unknown	Unknown
+2494	Unknown	Unknown
+2495	Unknown	Unknown
+2496	Unknown	Unknown
+2497	Unknown	Unknown
+2498	Unknown	Unknown
+2499	Unknown	Unknown
+2500	Unknown	Unknown
+2501	Unknown	Unknown
+2502	Unknown	Unknown
+2503	Unknown	Unknown
+2504	Unknown	Unknown
+2505	Unknown	Unknown
+2506	Unknown	Unknown
+2507	Unknown	Unknown
+2508	Unknown	Unknown
+2509	Unknown	Unknown
+2510	Unknown	Unknown
+2511	Unknown	Unknown
+2512	Unknown	Unknown
+2513	Unknown	Unknown
+2514	Unknown	Unknown
+2515	Unknown	Unknown
+2516	Unknown	Unknown
+2517	Unknown	Unknown
+2518	Unknown	Unknown
+2519	Unknown	Unknown
+2520	Unknown	Unknown
+2521	Unknown	Unknown
+2522	Unknown	Unknown
+2523	Unknown	Unknown
+2524	Unknown	Unknown
+2525	Unknown	Unknown
+2526	Unknown	Unknown
+2527	Unknown	Unknown
+2528	Unknown	Unknown
+2529	Unknown	Unknown
+2530	Unknown	Unknown
+2531	Unknown	Unknown
+2532	Unknown	Unknown
+2533	Unknown	Unknown
+2534	Unknown	Unknown
+2535	Unknown	Unknown
+2536	Unknown	Unknown
+2537	Unknown	Unknown
+2538	Unknown	Unknown
+2539	Unknown	Unknown
+2540	Unknown	Unknown
+2541	Unknown	Unknown
+2542	Unknown	Unknown
+2543	Unknown	Unknown
+2544	Unknown	Unknown
+2545	Unknown	Unknown
+2546	Unknown	Unknown
+2547	Unknown	Unknown
+2548	Unknown	Unknown
+2549	Unknown	Unknown
+2550	Unknown	Unknown
+2551	Unknown	Unknown
+2552	Unknown	Unknown
+2553	Unknown	Unknown
+2554	Unknown	Unknown
+2555	Unknown	Unknown
+2556	Unknown	Unknown
+2557	Unknown	Unknown
+2558	Unknown	Unknown
+2559	Unknown	Unknown
+2560	Unknown	Unknown
+2561	Unknown	Unknown
+2562	Unknown	Unknown
+2563	Unknown	Unknown
+2564	Unknown	Unknown
+2565	Unknown	Unknown
+2566	Unknown	Unknown
+2567	Unknown	Unknown
+2568	Unknown	Unknown
+2569	Unknown	Unknown
+2570	Unknown	Unknown
+2571	Unknown	Unknown
+2572	Unknown	Unknown
+2573	Unknown	Unknown
+2574	Unknown	Unknown
+2575	Unknown	Unknown
+2576	Unknown	Unknown
+2577	Unknown	Unknown
+2578	Unknown	Unknown
+2579	Unknown	Unknown
+2580	Unknown	Unknown
+2581	Unknown	Unknown
+2582	Unknown	Unknown
+2583	Unknown	Unknown
+2584	Unknown	Unknown
+2585	Unknown	Unknown
+2586	Unknown	Unknown
+2587	Unknown	Unknown
+2588	Unknown	Unknown
+2589	Unknown	Unknown
+2590	Unknown	Unknown
+2591	Unknown	Unknown
+2592	Unknown	Unknown
+2593	Unknown	Unknown
+2594	Unknown	Unknown
+2595	Unknown	Unknown
+2596	Unknown	Unknown
+2597	Unknown	Unknown
+2598	Unknown	Unknown
+2599	Unknown	Unknown
+2600	Unknown	Unknown
+2601	Unknown	Unknown
+2602	Unknown	Unknown
+2603	Unknown	Unknown
+2604	Unknown	Unknown
+2605	Unknown	Unknown
+2606	Unknown	Unknown
+2607	Unknown	Unknown
+2608	Unknown	Unknown
+2609	Unknown	Unknown
+2610	Unknown	Unknown
+2611	Unknown	Unknown
+2612	Unknown	Unknown
+2613	Unknown	Unknown
+2614	Unknown	Unknown
+2615	Unknown	Unknown
+2616	Unknown	Unknown
+2617	Unknown	Unknown
+2618	Unknown	Unknown
+2619	Unknown	Unknown
+2620	Unknown	Unknown
+2621	Unknown	Unknown
+2622	Unknown	Unknown
+2623	Unknown	Unknown
+2624	Unknown	Unknown
+2625	Unknown	Unknown
+2626	Unknown	Unknown
+2627	Unknown	Unknown
+2628	Unknown	Unknown
+2629	Unknown	Unknown
+2630	Unknown	Unknown
+2631	Unknown	Unknown
+2632	Unknown	Unknown
+2633	Unknown	Unknown
+2634	Unknown	Unknown
+2635	Unknown	Unknown
+2636	Unknown	Unknown
+2637	Unknown	Unknown
+2638	Unknown	Unknown
+2639	Unknown	Unknown
+2640	Unknown	Unknown
+2641	Unknown	Unknown
+2642	Unknown	Unknown
+2643	Unknown	Unknown
+2644	Unknown	Unknown
+2645	Unknown	Unknown
+2646	Unknown	Unknown
+2647	Unknown	Unknown
+2648	Unknown	Unknown
+2649	Unknown	Unknown
+2650	Unknown	Unknown
+2651	Unknown	Unknown
+2652	Unknown	Unknown
+2653	Unknown	Unknown
+2654	Unknown	Unknown
+2655	Unknown	Unknown
+2656	Unknown	Unknown
+2657	Unknown	Unknown
+2658	Unknown	Unknown
+2659	Unknown	Unknown
+2660	Unknown	Unknown
+2661	Unknown	Unknown
+2662	Unknown	Unknown
+2663	Unknown	Unknown
+2664	Unknown	Unknown
+2665	Unknown	Unknown
+2666	Unknown	Unknown
+2667	Unknown	Unknown
+2668	Unknown	Unknown
+2669	Unknown	Unknown
+2670	Unknown	Unknown
+2671	Unknown	Unknown
+2672	Unknown	Unknown
+2673	Unknown	Unknown
+2674	Unknown	Unknown
+2675	Unknown	Unknown
+2676	Unknown	Unknown
+2677	Unknown	Unknown
+2678	Unknown	Unknown
+2679	Unknown	Unknown
+2680	Unknown	Unknown
+2681	Unknown	Unknown
+2682	Unknown	Unknown
+2683	Unknown	Unknown
+2684	Unknown	Unknown
+2685	Unknown	Unknown
+2686	Unknown	Unknown
+2687	Unknown	Unknown
+2688	Unknown	Unknown
+2689	Unknown	Unknown
+2690	Unknown	Unknown
+2691	Unknown	Unknown
+2692	Unknown	Unknown
+2693	Unknown	Unknown
+2694	Unknown	Unknown
+2695	Unknown	Unknown
+2696	Unknown	Unknown
+2697	Unknown	Unknown
+2698	Unknown	Unknown
+2699	Unknown	Unknown
+2700	Unknown	Unknown
+2701	Unknown	Unknown
+2702	Unknown	Unknown
+2703	Unknown	Unknown
+2704	Unknown	Unknown
+2705	Unknown	Unknown
+2706	Unknown	Unknown
+2707	Unknown	Unknown
+2708	Unknown	Unknown
+2709	Unknown	Unknown
+2710	Unknown	Unknown
+2711	Unknown	Unknown
+2712	Unknown	Unknown
+2713	Unknown	Unknown
+2714	Unknown	Unknown
+2715	Unknown	Unknown
+2716	Unknown	Unknown
+2717	Unknown	Unknown
+2718	Unknown	Unknown
+2719	Unknown	Unknown
+2720	Unknown	Unknown
+2721	Unknown	Unknown
+2722	Unknown	Unknown
+2723	Unknown	Unknown
+2724	Unknown	Unknown
+2725	Unknown	Unknown
+2726	Unknown	Unknown
+2727	lipids	Unknown
+2728	Unknown	Unknown
+2729	Unknown	Unknown
+2730	Unknown	Unknown
+2731	Unknown	Unknown
+2732	Unknown	Unknown
+2733	Unknown	Unknown
+2734	Unknown	Unknown
+2735	Unknown	Unknown
+2736	Unknown	Unknown
+2737	Unknown	Unknown
+2738	Unknown	Unknown
+2739	Unknown	Unknown
+2740	Unknown	Unknown
+2741	others	"Stretching vibrations of CH, NH, and OH groups"
+2742	Unknown	Unknown
+2743	Unknown	Unknown
+2744	Unknown	Unknown
+2745	Unknown	Unknown
+2746	Unknown	Unknown
+2747	Unknown	Unknown
+2748	Unknown	Unknown
+2749	Unknown	Unknown
+2750	Unknown	Unknown
+2751	Unknown	Unknown
+2752	Unknown	Unknown
+2753	Unknown	Unknown
+2754	Unknown	Unknown
+2755	Unknown	Unknown
+2756	Unknown	Unknown
+2757	Unknown	Unknown
+2758	Unknown	Unknown
+2759	Unknown	Unknown
+2760	Unknown	Unknown
+2761	Unknown	Unknown
+2762	Unknown	Unknown
+2763	Unknown	Unknown
+2764	Unknown	Unknown
+2765	Unknown	Unknown
+2766	Unknown	Unknown
+2767	Unknown	Unknown
+2768	Unknown	Unknown
+2769	Unknown	Unknown
+2770	Unknown	Unknown
+2771	Unknown	Unknown
+2772	Unknown	Unknown
+2773	Unknown	Unknown
+2774	Unknown	Unknown
+2775	Unknown	Unknown
+2776	Unknown	Unknown
+2777	Unknown	Unknown
+2778	Unknown	Unknown
+2779	Unknown	Unknown
+2780	Unknown	Unknown
+2781	Unknown	Unknown
+2782	Unknown	Unknown
+2783	Unknown	Unknown
+2784	Unknown	Unknown
+2785	Unknown	Unknown
+2786	Unknown	Unknown
+2787	Unknown	Unknown
+2788	Unknown	Unknown
+2789	Unknown	Unknown
+2790	Unknown	Unknown
+2791	Unknown	Unknown
+2792	Unknown	Unknown
+2793	Unknown	Unknown
+2794	Unknown	Unknown
+2795	Unknown	Unknown
+2796	Unknown	Unknown
+2797	Unknown	Unknown
+2798	Unknown	Unknown
+2799	Unknown	Unknown
+2800	Unknown	Unknown
+2801	Unknown	Unknown
+2802	Unknown	Unknown
+2803	Unknown	Unknown
+2804	Unknown	Unknown
+2805	Unknown	Unknown
+2806	Unknown	Unknown
+2807	Unknown	Unknown
+2808	Unknown	Unknown
+2809	Unknown	Unknown
+2810	Unknown	Unknown
+2811	Unknown	Unknown
+2812	Unknown	Unknown
+2813	Unknown	Unknown
+2814	Unknown	Unknown
+2815	Unknown	Unknown
+2816	Unknown	Unknown
+2817	Unknown	Unknown
+2818	Unknown	Unknown
+2819	Unknown	Unknown
+2820	Unknown	Unknown
+2821	Unknown	Unknown
+2822	Unknown	Unknown
+2823	Unknown	Unknown
+2824	Unknown	Unknown
+2825	Unknown	Unknown
+2826	Unknown	Unknown
+2827	Unknown	Unknown
+2828	Unknown	Unknown
+2829	Unknown	Unknown
+2830	Unknown	Unknown
+2831	Unknown	Unknown
+2832	Unknown	Unknown
+2833	Unknown	Unknown
+2834	Unknown	Unknown
+2835	Unknown	Unknown
+2836	Unknown	Unknown
+2837	Unknown	Unknown
+2838	Unknown	Unknown
+2839	Unknown	Unknown
+2840	Unknown	Unknown
+2841	Unknown	Unknown
+2842	Unknown	Unknown
+2843	Unknown	Unknown
+2844	Unknown	Unknown
+2845	Unknown	Unknown
+2846	Unknown	Unknown
+2847	Unknown	Unknown
+2848	Unknown	Unknown
+2849	Unknown	Unknown
+2850	lipids	"днs CH2, lipids, fatty acids;CH2 symmetric"
+2851	lipids;carbohydrates	"CH2, CH3 asymmetric and symmetric stretches"
+2852	Unknown	Unknown
+2853	Unknown	Unknown
+2854	Unknown	Unknown
+2855	Unknown	Unknown
+2856	Unknown	Unknown
+2857	Unknown	Unknown
+2858	Unknown	Unknown
+2859	Unknown	Unknown
+2860	Unknown	Unknown
+2861	Unknown	Unknown
+2862	Unknown	Unknown
+2863	Unknown	Unknown
+2864	Unknown	Unknown
+2865	Unknown	Unknown
+2866	Unknown	Unknown
+2867	Unknown	Unknown
+2868	Unknown	Unknown
+2869	Unknown	Unknown
+2870	Unknown	Unknown
+2871	Unknown	Unknown
+2872	Unknown	Unknown
+2873	Unknown	Unknown
+2874	Unknown	Unknown
+2875	Unknown	Unknown
+2876	Unknown	Unknown
+2877	Unknown	Unknown
+2878	Unknown	Unknown
+2879	proteins;lipids	CH2 and CH of lipids and proteins
+2880	Unknown	Unknown
+2881	Unknown	Unknown
+2882	Unknown	Unknown
+2883	proteins;lipids	CH2 asymmetric stretch of lipids and proteins
+2884	Unknown	Unknown
+2885	lipids	"днs CH3, lipids, fatty acids"
+2886	lipids	Fermi resonance CH2 stretch
+2887	Unknown	Unknown
+2888	Unknown	Unknown
+2889	lipids;carbohydrates	"CH2, CH3 asymmetric and symmetric stretches"
+2890	Unknown	Unknown
+2891	Unknown	Unknown
+2892	Unknown	Unknown
+2893	Unknown	Unknown
+2894	Unknown	Unknown
+2895	Unknown	Unknown
+2896	Unknown	Unknown
+2897	Unknown	Unknown
+2898	Unknown	Unknown
+2899	Unknown	Unknown
+2900	proteins;lipids	CH stretch of lipids and proteins
+2901	Unknown	Unknown
+2902	Unknown	Unknown
+2903	Unknown	Unknown
+2904	Unknown	Unknown
+2905	Unknown	Unknown
+2906	Unknown	Unknown
+2907	Unknown	Unknown
+2908	Unknown	Unknown
+2909	Unknown	Unknown
+2910	Unknown	Unknown
+2911	lipids;carbohydrates	C-H stretching
+2912	Unknown	Unknown
+2913	Unknown	Unknown
+2914	Unknown	Unknown
+2915	proteins;lipids	"CH band of lipids and proteins (the lipid band has a tendency towards higher levels of energy, such as 2855 cm-1, while the protein bandА»s tendency is toward lower energy levels like 2920 cm-1)"
+2916	Unknown	Unknown
+2917	Unknown	Unknown
+2918	Unknown	Unknown
+2919	Unknown	Unknown
+2920	Unknown	Unknown
+2921	Unknown	Unknown
+2922	Unknown	Unknown
+2923	Unknown	Unknown
+2924	Unknown	Unknown
+2925	Unknown	Unknown
+2926	Unknown	Unknown
+2927	Unknown	Unknown
+2928	proteins	Symmetric CH3 stretch;Due primarily to protein
+2929	Unknown	Unknown
+2930	Unknown	Unknown
+2931	Unknown	Unknown
+2932	Unknown	Unknown
+2933	others	CH2 asymmetric stretch
+2934	Unknown	Unknown
+2935	others	Chain end CH3 symmetric band
+2936	Unknown	Unknown
+2937	Unknown	Unknown
+2938	Unknown	Unknown
+2939	Unknown	Unknown
+2940	proteins;lipids	"C-H vibrations in lipids and proteins;днas CH2, lipids, fatty acids"
+2941	Unknown	Unknown
+2942	Unknown	Unknown
+2943	Unknown	Unknown
+2944	Unknown	Unknown
+2945	Unknown	Unknown
+2946	Unknown	Unknown
+2947	Unknown	Unknown
+2948	Unknown	Unknown
+2949	Unknown	Unknown
+2950	Unknown	Unknown
+2951	Unknown	Unknown
+2952	Unknown	Unknown
+2953	Unknown	Unknown
+2954	Unknown	Unknown
+2955	Unknown	Unknown
+2956	Unknown	Unknown
+2957	Unknown	Unknown
+2958	Unknown	Unknown
+2959	Unknown	Unknown
+2960	others	Out-of-plane chain end antisymmetric CH3 stretch band
+2961	Unknown	Unknown
+2962	Unknown	Unknown
+2963	Unknown	Unknown
+2964	Unknown	Unknown
+2965	Unknown	Unknown
+2966	Unknown	Unknown
+2967	Unknown	Unknown
+2968	Unknown	Unknown
+2969	Unknown	Unknown
+2970	lipids	"днas CH3, lipids, fatty acids;Cholesterol and cholesterol ester"
+2971	Unknown	Unknown
+2972	Unknown	Unknown
+2973	Unknown	Unknown
+2974	Unknown	Unknown
+2975	Unknown	Unknown
+2976	Unknown	Unknown
+2977	Unknown	Unknown
+2978	Unknown	Unknown
+2979	Unknown	Unknown
+2980	Unknown	Unknown
+2981	Unknown	Unknown
+2982	Unknown	Unknown
+2983	Unknown	Unknown
+2984	Unknown	Unknown
+2985	Unknown	Unknown
+2986	Unknown	Unknown
+2987	lipids	cholesterol ester 
+2988	Unknown	Unknown
+2989	Unknown	Unknown
+2990	Unknown	Unknown
+2991	Unknown	Unknown
+2992	Unknown	Unknown
+2993	Unknown	Unknown
+2994	Unknown	Unknown
+2995	Unknown	Unknown
+2996	Unknown	Unknown
+2997	Unknown	Unknown
+2998	Unknown	Unknown
+2999	Unknown	Unknown
+3000	others	CH stretching
+3001	Unknown	Unknown
+3002	Unknown	Unknown
+3003	Unknown	Unknown
+3004	Unknown	Unknown
+3005	Unknown	Unknown
+3006	lipids	Bond -C-H stretch
+3007	Unknown	Unknown
+3008	lipids	"днas (CH), lipids, fatty acids"
+3009	Unknown	Unknown
+3010	lipids	Unsaturated =CH stretch
+3011	lipids	Unsaturated =CH stretch
+3012	Unknown	Unknown
+3013	Unknown	Unknown
+3014	Unknown	Unknown
+3015	lipids	дн=CH of lipids
+3016	Unknown	Unknown
+3017	Unknown	Unknown
+3018	Unknown	Unknown
+3019	Unknown	Unknown
+3020	Unknown	Unknown
+3021	Unknown	Unknown
+3022	Unknown	Unknown
+3023	lipids	Alkyl =C-H stretches
+3024	Unknown	Unknown
+3025	Unknown	Unknown
+3026	Unknown	Unknown
+3027	Unknown	Unknown
+3028	Unknown	Unknown
+3029	Unknown	Unknown
+3030	Unknown	Unknown
+3031	Unknown	Unknown
+3032	Unknown	Unknown
+3033	Unknown	Unknown
+3034	Unknown	Unknown
+3035	Unknown	Unknown
+3036	Unknown	Unknown
+3037	Unknown	Unknown
+3038	Unknown	Unknown
+3039	Unknown	Unknown
+3040	Unknown	Unknown
+3041	Unknown	Unknown
+3042	Unknown	Unknown
+3043	Unknown	Unknown
+3044	Unknown	Unknown
+3045	Unknown	Unknown
+3046	Unknown	Unknown
+3047	Unknown	Unknown
+3048	Unknown	Unknown
+3049	Unknown	Unknown
+3050	Unknown	Unknown
+3051	Unknown	Unknown
+3052	Unknown	Unknown
+3053	Unknown	Unknown
+3054	Unknown	Unknown
+3055	Unknown	Unknown
+3056	Unknown	Unknown
+3057	Unknown	Unknown
+3058	Unknown	Unknown
+3059	Unknown	Unknown
+3060	Unknown	Unknown
+3061	Unknown	Unknown
+3062	Unknown	Unknown
+3063	Unknown	Unknown
+3064	Unknown	Unknown
+3065	Unknown	Unknown
+3066	Unknown	Unknown
+3067	Unknown	Unknown
+3068	Unknown	Unknown
+3069	Unknown	Unknown
+3070	Unknown	Unknown
+3071	Unknown	Unknown
+3072	Unknown	Unknown
+3073	Unknown	Unknown
+3074	Unknown	Unknown
+3075	Unknown	Unknown
+3076	Unknown	Unknown
+3077	Unknown	Unknown
+3078	Unknown	Unknown
+3079	Unknown	Unknown
+3080	Unknown	Unknown
+3081	Unknown	Unknown
+3082	Unknown	Unknown
+3083	Unknown	Unknown
+3084	Unknown	Unknown
+3085	Unknown	Unknown
+3086	Unknown	Unknown
+3087	Unknown	Unknown
+3088	Unknown	Unknown
+3089	Unknown	Unknown
+3090	Unknown	Unknown
+3091	Unknown	Unknown
+3092	Unknown	Unknown
+3093	Unknown	Unknown
+3094	Unknown	Unknown
+3095	Unknown	Unknown
+3096	Unknown	Unknown
+3097	Unknown	Unknown
+3098	Unknown	Unknown
+3099	Unknown	Unknown
+3100	Unknown	Unknown
+3101	Unknown	Unknown
+3102	Unknown	Unknown
+3103	Unknown	Unknown
+3104	Unknown	Unknown
+3105	Unknown	Unknown
+3106	Unknown	Unknown
+3107	Unknown	Unknown
+3108	Unknown	Unknown
+3109	Unknown	Unknown
+3110	Unknown	Unknown
+3111	Unknown	Unknown
+3112	Unknown	Unknown
+3113	Unknown	Unknown
+3114	Unknown	Unknown
+3115	Unknown	Unknown
+3116	Unknown	Unknown
+3117	Unknown	Unknown
+3118	Unknown	Unknown
+3119	Unknown	Unknown
+3120	Unknown	Unknown
+3121	Unknown	Unknown
+3122	Unknown	Unknown
+3123	Unknown	Unknown
+3124	Unknown	Unknown
+3125	Unknown	Unknown
+3126	Unknown	Unknown
+3127	Unknown	Unknown
+3128	Unknown	Unknown
+3129	Unknown	Unknown
+3130	Unknown	Unknown
+3131	Unknown	Unknown
+3132	Unknown	Unknown
+3133	Unknown	Unknown
+3134	Unknown	Unknown
+3135	Unknown	Unknown
+3136	Unknown	Unknown
+3137	Unknown	Unknown
+3138	Unknown	Unknown
+3139	Unknown	Unknown
+3140	Unknown	Unknown
+3141	Unknown	Unknown
+3142	Unknown	Unknown
+3143	Unknown	Unknown
+3144	Unknown	Unknown
+3145	Unknown	Unknown
+3146	Unknown	Unknown
+3147	Unknown	Unknown
+3148	Unknown	Unknown
+3149	Unknown	Unknown
+3150	Unknown	Unknown
+3151	Unknown	Unknown
+3152	Unknown	Unknown
+3153	Unknown	Unknown
+3154	Unknown	Unknown
+3155	Unknown	Unknown
+3156	Unknown	Unknown
+3157	Unknown	Unknown
+3158	Unknown	Unknown
+3159	Unknown	Unknown
+3160	Unknown	Unknown
+3161	Unknown	Unknown
+3162	Unknown	Unknown
+3163	Unknown	Unknown
+3164	Unknown	Unknown
+3165	Unknown	Unknown
+3166	Unknown	Unknown
+3167	Unknown	Unknown
+3168	Unknown	Unknown
+3169	Unknown	Unknown
+3170	Unknown	Unknown
+3171	Unknown	Unknown
+3172	Unknown	Unknown
+3173	Unknown	Unknown
+3174	Unknown	Unknown
+3175	Unknown	Unknown
+3176	Unknown	Unknown
+3177	Unknown	Unknown
+3178	Unknown	Unknown
+3179	Unknown	Unknown
+3180	Unknown	Unknown
+3181	Unknown	Unknown
+3182	Unknown	Unknown
+3183	Unknown	Unknown
+3184	Unknown	Unknown
+3185	Unknown	Unknown
+3186	Unknown	Unknown
+3187	Unknown	Unknown
+3188	Unknown	Unknown
+3189	Unknown	Unknown
+3190	Unknown	Unknown
+3191	Unknown	Unknown
+3192	Unknown	Unknown
+3193	Unknown	Unknown
+3194	Unknown	Unknown
+3195	Unknown	Unknown
+3196	Unknown	Unknown
+3197	Unknown	Unknown
+3198	Unknown	Unknown
+3199	Unknown	Unknown
+3200	Unknown	Unknown
+3201	Unknown	Unknown
+3202	Unknown	Unknown
+3203	Unknown	Unknown
+3204	Unknown	Unknown
+3205	Unknown	Unknown
+3206	Unknown	Unknown
+3207	Unknown	Unknown
+3208	Unknown	Unknown
+3209	Unknown	Unknown
+3210	Unknown	Unknown
+3211	Unknown	Unknown
+3212	Unknown	Unknown
+3213	Unknown	Unknown
+3214	Unknown	Unknown
+3215	Unknown	Unknown
+3216	Unknown	Unknown
+3217	Unknown	Unknown
+3218	Unknown	Unknown
+3219	Unknown	Unknown
+3220	Unknown	Unknown
+3221	Unknown	Unknown
+3222	Unknown	Unknown
+3223	Unknown	Unknown
+3224	Unknown	Unknown
+3225	Unknown	Unknown
+3226	Unknown	Unknown
+3227	Unknown	Unknown
+3228	Unknown	Unknown
+3229	Unknown	Unknown
+3230	Unknown	Unknown
+3231	Unknown	Unknown
+3232	lipids;carbohydrates	O-H and N-H stretching vibrations (hydrogen bonding network;may vary in the malignant tissues)
+3233	Unknown	Unknown
+3234	Unknown	Unknown
+3235	Unknown	Unknown
+3236	Unknown	Unknown
+3237	Unknown	Unknown
+3238	Unknown	Unknown
+3239	Unknown	Unknown
+3240	Unknown	Unknown
+3241	Unknown	Unknown
+3242	Unknown	Unknown
+3243	Unknown	Unknown
+3244	Unknown	Unknown
+3245	Unknown	Unknown
+3246	Unknown	Unknown
+3247	Unknown	Unknown
+3248	Unknown	Unknown
+3249	Unknown	Unknown
+3250	Unknown	Unknown
+3251	Unknown	Unknown
+3252	Unknown	Unknown
+3253	Unknown	Unknown
+3254	Unknown	Unknown
+3255	Unknown	Unknown
+3256	Unknown	Unknown
+3257	Unknown	Unknown
+3258	Unknown	Unknown
+3259	Unknown	Unknown
+3260	Unknown	Unknown
+3261	Unknown	Unknown
+3262	Unknown	Unknown
+3263	Unknown	Unknown
+3264	Unknown	Unknown
+3265	Unknown	Unknown
+3266	Unknown	Unknown
+3267	Unknown	Unknown
+3268	Unknown	Unknown
+3269	Unknown	Unknown
+3270	Unknown	Unknown
+3271	Unknown	Unknown
+3272	Unknown	Unknown
+3273	Unknown	Unknown
+3274	Unknown	Unknown
+3275	Unknown	Unknown
+3276	Unknown	Unknown
+3277	Unknown	Unknown
+3278	Unknown	Unknown
+3279	Unknown	Unknown
+3280	Unknown	Unknown
+3281	Unknown	Unknown
+3282	Unknown	Unknown
+3283	Unknown	Unknown
+3284	Unknown	Unknown
+3285	Unknown	Unknown
+3286	Unknown	Unknown
+3287	Unknown	Unknown
+3288	Unknown	Unknown
+3289	Unknown	Unknown
+3290	Unknown	Unknown
+3291	Unknown	Unknown
+3292	Unknown	Unknown
+3293	Unknown	Unknown
+3294	Unknown	Unknown
+3295	Unknown	Unknown
+3296	proteins	"NH asymmetric stretching (proteins), amide A"
+3297	Unknown	Unknown
+3298	Unknown	Unknown
+3299	Unknown	Unknown
+3300	others	Attributed to OH stretch
+3301	Unknown	Unknown
+3302	Unknown	Unknown
+3303	Unknown	Unknown
+3304	Unknown	Unknown
+3305	Unknown	Unknown
+3306	Unknown	Unknown
+3307	Unknown	Unknown
+3308	Unknown	Unknown
+3309	Unknown	Unknown
+3310	Unknown	Unknown
+3311	Unknown	Unknown
+3312	Unknown	Unknown
+3313	Unknown	Unknown
+3314	Unknown	Unknown
+3315	Unknown	Unknown
+3316	Unknown	Unknown
+3317	Unknown	Unknown
+3318	Unknown	Unknown
+3319	Unknown	Unknown
+3320	Unknown	Unknown
+3321	Unknown	Unknown
+3322	Unknown	Unknown
+3323	Unknown	Unknown
+3324	Unknown	Unknown
+3325	Unknown	Unknown
+3326	Unknown	Unknown
+3327	Unknown	Unknown
+3328	Unknown	Unknown
+3329	proteins	N-H vibration of proteins
+3330	Unknown	Unknown
+3331	Unknown	Unknown
+3332	Unknown	Unknown
+3333	Unknown	Unknown
+3334	Unknown	Unknown
+3335	Unknown	Unknown
+3336	Unknown	Unknown
+3337	Unknown	Unknown
+3338	Unknown	Unknown
+3339	Unknown	Unknown
+3340	Unknown	Unknown
+3341	Unknown	Unknown
+3342	Unknown	Unknown
+3343	Unknown	Unknown
+3344	Unknown	Unknown
+3345	Unknown	Unknown
+3346	Unknown	Unknown
+3347	Unknown	Unknown
+3348	Unknown	Unknown
+3349	Unknown	Unknown
+3350	Unknown	Unknown
+3351	Unknown	Unknown
+3352	Unknown	Unknown
+3353	Unknown	Unknown
+3354	Unknown	Unknown
+3355	Unknown	Unknown
+3356	Unknown	Unknown
+3357	Unknown	Unknown
+3358	Unknown	Unknown
+3359	Unknown	Unknown
+3360	Unknown	Unknown
+3361	Unknown	Unknown
+3362	Unknown	Unknown
+3363	Unknown	Unknown
+3364	Unknown	Unknown
+3365	Unknown	Unknown
+3366	Unknown	Unknown
+3367	Unknown	Unknown
+3368	Unknown	Unknown
+3369	Unknown	Unknown
+3370	Unknown	Unknown
+3371	Unknown	Unknown
+3372	Unknown	Unknown
+3373	Unknown	Unknown
+3374	Unknown	Unknown
+3375	Unknown	Unknown
+3376	Unknown	Unknown
+3377	Unknown	Unknown
+3378	Unknown	Unknown
+3379	Unknown	Unknown
+3380	Unknown	Unknown
+3381	Unknown	Unknown
+3382	Unknown	Unknown
+3383	Unknown	Unknown
+3384	Unknown	Unknown
+3385	Unknown	Unknown
+3386	Unknown	Unknown
+3387	Unknown	Unknown
+3388	Unknown	Unknown
+3389	Unknown	Unknown
+3390	Unknown	Unknown
+3391	Unknown	Unknown
+3392	Unknown	Unknown
+3393	Unknown	Unknown
+3394	Unknown	Unknown
+3395	Unknown	Unknown
+3396	Unknown	Unknown
+3397	Unknown	Unknown
+3398	Unknown	Unknown
+3399	Unknown	Unknown
+3400	Unknown	Unknown
+3401	Unknown	Unknown
+3402	Unknown	Unknown
+3403	Unknown	Unknown
+3404	Unknown	Unknown
+3405	Unknown	Unknown
+3406	Unknown	Unknown
+3407	Unknown	Unknown
+3408	Unknown	Unknown
+3409	Unknown	Unknown
+3410	Unknown	Unknown
+3411	Unknown	Unknown
+3412	Unknown	Unknown
+3413	Unknown	Unknown
+3414	Unknown	Unknown
+3415	Unknown	Unknown
+3416	Unknown	Unknown
+3417	Unknown	Unknown
+3418	Unknown	Unknown
+3419	Unknown	Unknown
+3420	Unknown	Unknown
+3421	Unknown	Unknown
+3422	Unknown	Unknown
+3423	Unknown	Unknown
+3424	Unknown	Unknown
+3425	Unknown	Unknown
+3426	Unknown	Unknown
+3427	Unknown	Unknown
+3428	Unknown	Unknown
+3429	Unknown	Unknown
+3430	Unknown	Unknown
+3431	Unknown	Unknown
+3432	Unknown	Unknown
+3433	Unknown	Unknown
+3434	Unknown	Unknown
+3435	Unknown	Unknown
+3436	Unknown	Unknown
+3437	Unknown	Unknown
+3438	Unknown	Unknown
+3439	Unknown	Unknown
+3440	Unknown	Unknown
+3441	Unknown	Unknown
+3442	Unknown	Unknown
+3443	Unknown	Unknown
+3444	Unknown	Unknown
+3445	Unknown	Unknown
+3446	Unknown	Unknown
+3447	Unknown	Unknown
+3448	Unknown	Unknown
+3449	Unknown	Unknown
+3450	Unknown	Unknown
+3451	Unknown	Unknown
+3452	Unknown	Unknown
+3453	Unknown	Unknown
+3454	Unknown	Unknown
+3455	Unknown	Unknown
+3456	Unknown	Unknown
+3457	Unknown	Unknown
+3458	Unknown	Unknown
+3459	Unknown	Unknown
+3460	Unknown	Unknown
+3461	Unknown	Unknown
+3462	Unknown	Unknown
+3463	Unknown	Unknown
+3464	Unknown	Unknown
+3465	Unknown	Unknown
+3466	Unknown	Unknown
+3467	Unknown	Unknown
+3468	Unknown	Unknown
+3469	Unknown	Unknown
+3470	Unknown	Unknown
+3471	Unknown	Unknown
+3472	Unknown	Unknown
+3473	Unknown	Unknown
+3474	Unknown	Unknown
+3475	Unknown	Unknown
+3476	Unknown	Unknown
+3477	Unknown	Unknown
+3478	Unknown	Unknown
+3479	Unknown	Unknown
+3480	Unknown	Unknown
+3481	Unknown	Unknown
+3482	Unknown	Unknown
+3483	Unknown	Unknown
+3484	Unknown	Unknown
+3485	Unknown	Unknown
+3486	Unknown	Unknown
+3487	Unknown	Unknown
+3488	Unknown	Unknown
+3489	Unknown	Unknown
+3490	Unknown	Unknown
+3491	Unknown	Unknown
+3492	Unknown	Unknown
+3493	Unknown	Unknown
+3494	Unknown	Unknown
+3495	Unknown	Unknown
+3496	Unknown	Unknown
+3497	Unknown	Unknown
+3498	Unknown	Unknown
+3499	Unknown	Unknown
+3500	Unknown	Unknown
+3501	Unknown	Unknown
+3502	Unknown	Unknown
+3503	Unknown	Unknown
+3504	Unknown	Unknown
+3505	Unknown	Unknown
+3506	Unknown	Unknown
+3507	Unknown	Unknown
+3508	Unknown	Unknown
+3509	Unknown	Unknown
+3510	Unknown	Unknown
+3511	Unknown	Unknown
+3512	Unknown	Unknown
+3513	Unknown	Unknown
+3514	Unknown	Unknown
+3515	Unknown	Unknown
+3516	Unknown	Unknown
+3517	Unknown	Unknown
+3518	Unknown	Unknown
+3519	Unknown	Unknown
+3520	Unknown	Unknown
+3521	Unknown	Unknown
+3522	Unknown	Unknown
+3523	Unknown	Unknown
+3524	Unknown	Unknown
+3525	Unknown	Unknown
+3526	Unknown	Unknown
+3527	Unknown	Unknown
+3528	Unknown	Unknown
+3529	Unknown	Unknown
+3530	Unknown	Unknown
+3531	Unknown	Unknown
+3532	Unknown	Unknown
+3533	Unknown	Unknown
+3534	Unknown	Unknown
+3535	Unknown	Unknown
+3536	Unknown	Unknown
+3537	Unknown	Unknown
+3538	Unknown	Unknown
+3539	Unknown	Unknown
+3540	Unknown	Unknown
+3541	Unknown	Unknown
+3542	Unknown	Unknown
+3543	Unknown	Unknown
+3544	Unknown	Unknown
+3545	Unknown	Unknown
+3546	Unknown	Unknown
+3547	Unknown	Unknown
+3548	Unknown	Unknown
+3549	Unknown	Unknown
+3550	others	O-H stretching vibration
+
