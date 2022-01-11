@@ -16,9 +16,9 @@
 
 # Introduction
 
-A ramanome represents a single-cell-resolution metabolic phenome that is information-rich, revealing functional heterogeneity among cells, and universally applicable to all cell types.Ramanome Explorer (RamEx, Fig.1) is a toolkit for comprehensive and efficient analysis and comparison of ramanomes. Results from the multidimensional analysis are visualized via intuitive graphics. Implemented via R and C++, RamEx is fully extendable and supports cross-platform use.By providing simple-to-use modules for computational tasks that otherwise would require substantial programming experience and algorithmic skills, RamEx should greatly facilitate the computational mining of ramanomes.
-![Fig. 1. The software architecture of RamEx.](http://bioinfo.single-cell.cn/images/RamEx.png)  
-<div align=center>Fig.1. The software architecture of RamEx. RamEx integrates five core modules (data governance and preprocessing, real-time ramanome depth analysis, microbiome heterogeneity index analysis, IRCA, and RBCS) to support a complete ramanome-analysis pipeline.</div>
+A ramanome represents a single-cell-resolution metabolic phenome that is information-rich, revealing functional heterogeneity among cells, and universally applicable to all cell types.Ramanome Explorer (RamEx) is a toolkit for comprehensive and efficient analysis and comparison of ramanomes. Results from the multidimensional analysis are visualized via intuitive graphics. Implemented via R and C++, RamEx is fully extendable and supports cross-platform use.By providing simple-to-use modules for computational tasks that otherwise would require substantial programming experience and algorithmic skills, RamEx should greatly facilitate the computational mining of ramanomes.
+![Fig. 1. Calibration of predicted functional profiles of microbiome amplicon samples by a small number of amplicon-WGS sample pairs for training. ](http://bioinfo.single-cell.cn/images/Fig.1.jpg)  
+<div align=center>Fig.1. Calibration of predicted functional profiles of microbiome amplicon samples by a small number of amplicon-WGS sample pairs for training.</div>
 
 
 
@@ -74,73 +74,39 @@ cd RamEx
 make
 ```
 # Usage
-The RamEx consists of two steps: **a. training** and **b. calibration**. Currently the RamEx requires all functional gene profiles to be annotated using KEGG Ontology. 
+The RamEx consists of three modules: QC（pretreatment）IRCA and RBCS. Currently the RamEx requires all CAST-R, Horiba and Renishaw files as txt object.
+
+**I. QC（pretreatment）** 
+
+Ramanome analysis starts with data management and preprocessing of SCRS
+In the QC step, RamEx provides several functions: initialization, read data,  smooth, quanlity control, baseline, normalization and visual variance analysis, including PCA,t-SNE and PLS-DA. 
+
+Currently the RamEx requires files as txt object. All spectrum data stored in few subfolders of the working path by group. 
+
+**Initialization**
+
+The initialization function makesure the working directory and creat the ouput directry.
+
+**Read data**
+
+For CAST-R and Horiba spectrum data, RamEx reads data from the subfolders of the working path by group. And for Renishaw mapping data, RamEx can read mapping data from the working directory and creat some subfolders by group. Then, RamEx can read them like CAST-R and Horiba spectrum data.
+
+**Preprocessing(smooth; quanlity control; baseline; normalization)**
+
+All data can be preprocessed by combining the provided functions as desired.
+
+**Visual variance analysis(PCA,t-SNE and PLS-DA)**
+
+Low-dimensional spatial visualization provides us with an intuitive understanding of ramanome. 
 
 
-**I. Training for KO abundance calibration** 
-
-In the training step, RamEx builds a model by a small number (e.g 15) of paired amplicon-WGS samples using machine learning. Each sample should be sequenced by both shotgun WGS and amplicon (e.g. 16S rRNA), then we parse their functional profiles. We recommend HuMANn 2 [1] for WGS functional profiling, and PICRUSt 2 [2] for amplicon functional prediction.  
-
-For training, the RamEx accepts gene profiles of training paired samples in two formats:
-
-**a. Abundance tables**
-
-```
-RamEx-train -T training.wgs.ko.abd -t training.16s.ko.abd -o RamEx.model
-```
-in which parameter “-T” assigns the gene relative abundance table of training WGS samples and “-t” assigns that of training amplicons. Orders of paired samples should be exactly consistent in the input WGS and amplicon tables.  
 
 
-The format of a gene profile table of training WGS samples:  
-```
-Sample	K00001	K00002	K00003	K00004	K00005	K00010	K00006	K00011	K00007
-Sample1	0.1	0	0.3	0.1	0.1	0.1	0.1	0	0.2
-Sample2	0.3	0.1	0.1	0	0.1	0.2	0	0.1	0.1
-Sample3	0	0.2	0.1	0.3	0	0	0.4	0	0
+**II. Raman Barcode of Cellular-response to Stress(RBCS)**
 
-...
-SampleN	0	0.1	0.2	0.4	0	0	0.3	0	0
-```
+We have proposed RBCS, which represents the time- or condition-specific response of ramanome to stimuli. RBCS contains a series of Raman peaks that are more responsive to stimuli. The dynamic changes of these Raman signals constitute a specific identification code that can be used to quickly distinguish and identify specific cellular responses of each stimulus. Based on stoichiometric methods, the RBCS obtained from the analysis and comparison of Raman profiles under all stimuli cannot only distinguish the cellular responses of different stimuli, but also provide information on their cytotoxicity (i.e., cell mortality).
 
-
-The training amplicon table is in the same format, and order of each sample is exactly consistent with the training WGS table.  
-
-**b. Sample lists** 
-
-```
-RamEx-train -L training.wgs.list -l training.16s.list -o RamEx.model
-```
-
-in which parameter “-L” assigns the file list of training WGS samples and “-t” assigns that of training amplicons. Orders of paired samples should be exactly consistent in the input WGS and amplicon lists. In the input list, each line contains the path of one single sample’s gene profile. 
-
-
-The format of a gene profile list of training WGS samples: 
-```
-Sample1	/home/data/sample1.ko.out
-Sample2	/home/data/sample2.ko.out
-Sample3	/home/data/sample3.ko.out
-...
-SampleN	/home/data/sampleN.ko.out
-```
-And the format of each single sample's gene profile in the list (e.g. for sample1.ko.out):
-```
-#KO Count
-K00001	0.1
-K00003	0.3
-K00004	0.1
-K00005	0.1
-K00010	0.1
-K00006	0.1
-K00007	0.2
-```
-
-The training amplicon list is in the same format, and order of each sample is exactly matched with the training WGS list.  
-
-
-Then the output file “RamEx.model” is the generated training model for calibration in the next step.  
-
-
-**II. Calibration for KO abundance**
+The 
 
 In the calibration step, RamEx calibrates the predicted functional profiles of more amplicon samples using the model built in the training step. The predicted gene profiles of amplicons for calibration should be processed in the same way as the training amplicon samples (e.g. by PICRUSt 2).  
 
