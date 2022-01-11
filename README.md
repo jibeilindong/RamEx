@@ -1,7 +1,7 @@
 # RamEx
 
-![Version](https://img.shields.io/badge/Version-1.01-brightgreen)
-![Release date](https://img.shields.io/badge/Release%20date-Dec.%2026%2C%202019-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0-brightgreen)
+![Release date](https://img.shields.io/badge/Release%20date-Jan.%2010%2C%202022-brightgreen)
 
 
 
